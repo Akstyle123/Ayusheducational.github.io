@@ -1,0 +1,3037 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Eikra Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-17 11:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: post-meta.php:99 post-meta.php:118
+msgid "0px"
+msgstr ""
+
+#: vc-modules/product-slider.php:22 vc-modules/research.php:18
+#: vc-modules/logo-slider.php:18 vc-modules/course-slider.php:18
+msgid "1 col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:26 elementor/product-slider/class.php:32
+#: elementor/research/class.php:40
+msgid "1 Column"
+msgstr ""
+
+#: vc-modules/product-slider.php:163 elementor/course-slider/class.php:199
+#: elementor/logo-slider/class.php:154
+#: elementor/instructor-slider/class.php:247
+#: elementor/product-slider/class.php:152 elementor/testimonial/class.php:157
+msgid "1 Second"
+msgstr ""
+
+#: vc-modules/testimonial.php:155 vc-modules/instructor-slider.php:304
+#: vc-modules/logo-slider.php:151 vc-modules/course-slider.php:194
+msgid "1 Seconds"
+msgstr ""
+
+#: post-meta.php:109 post-meta.php:128
+msgid "100px"
+msgstr ""
+
+#: post-meta.php:100 post-meta.php:119
+msgid "10px"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:157
+#: elementor/instructor-slider/class.php:135
+msgid "1st Instructor"
+msgstr ""
+
+#: vc-modules/course-featured.php:64
+msgid "1st Post"
+msgstr ""
+
+#: vc-modules/product-slider.php:23 vc-modules/research.php:19
+#: vc-modules/logo-slider.php:19 vc-modules/course-slider.php:19
+msgid "2 col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:27 elementor/product-slider/class.php:33
+#: elementor/research/class.php:39
+msgid "2 Column"
+msgstr ""
+
+#: vc-modules/testimonial.php:154 vc-modules/product-slider.php:162
+#: vc-modules/instructor-slider.php:303 vc-modules/logo-slider.php:150
+#: vc-modules/course-slider.php:193 elementor/course-slider/class.php:198
+#: elementor/logo-slider/class.php:153
+#: elementor/instructor-slider/class.php:246
+#: elementor/product-slider/class.php:151 elementor/testimonial/class.php:156
+msgid "2 Seconds"
+msgstr ""
+
+#: post-meta.php:101 post-meta.php:120
+msgid "20px"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:169
+#: elementor/instructor-slider/class.php:146
+msgid "2nd Instructor"
+msgstr ""
+
+#: vc-modules/course-featured.php:72
+msgid "2nd Post"
+msgstr ""
+
+#: vc-modules/product-slider.php:24 vc-modules/research.php:20
+#: vc-modules/logo-slider.php:20 vc-modules/course-slider.php:20
+msgid "3 col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:28 elementor/product-slider/class.php:34
+#: elementor/research/class.php:38
+msgid "3 Column"
+msgstr ""
+
+#: vc-modules/testimonial.php:153 vc-modules/product-slider.php:161
+#: vc-modules/instructor-slider.php:302 vc-modules/logo-slider.php:149
+#: vc-modules/course-slider.php:192 elementor/course-slider/class.php:197
+#: elementor/logo-slider/class.php:152
+#: elementor/instructor-slider/class.php:245
+#: elementor/product-slider/class.php:150 elementor/testimonial/class.php:155
+msgid "3 Seconds"
+msgstr ""
+
+#: post-meta.php:102 post-meta.php:121
+msgid "30px"
+msgstr ""
+
+#: vc-modules/course-featured.php:80
+msgid "3rd Post"
+msgstr ""
+
+#: vc-modules/product-slider.php:25 vc-modules/research.php:21
+#: vc-modules/logo-slider.php:21 vc-modules/course-slider.php:21
+msgid "4 col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:29 elementor/product-slider/class.php:35
+#: elementor/research/class.php:37
+msgid "4 Column"
+msgstr ""
+
+#: vc-modules/testimonial.php:152 vc-modules/product-slider.php:160
+#: vc-modules/instructor-slider.php:301 vc-modules/logo-slider.php:148
+#: vc-modules/course-slider.php:191 elementor/course-slider/class.php:196
+#: elementor/logo-slider/class.php:151
+#: elementor/instructor-slider/class.php:244
+#: elementor/product-slider/class.php:149 elementor/testimonial/class.php:154
+msgid "4 Seconds"
+msgstr ""
+
+#: post-meta.php:103 post-meta.php:122
+msgid "40px"
+msgstr ""
+
+#: vc-modules/course-featured.php:88
+msgid "4th Post"
+msgstr ""
+
+#: elementor/logo-slider/class.php:30 elementor/product-slider/class.php:36
+msgid "5 Column"
+msgstr ""
+
+#: vc-modules/testimonial.php:151 vc-modules/product-slider.php:159
+#: vc-modules/instructor-slider.php:300 vc-modules/logo-slider.php:147
+#: vc-modules/course-slider.php:190 elementor/course-slider/class.php:195
+#: elementor/logo-slider/class.php:150
+#: elementor/instructor-slider/class.php:243
+#: elementor/product-slider/class.php:148 elementor/testimonial/class.php:153
+msgid "5 Seconds"
+msgstr ""
+
+#: post-meta.php:104 post-meta.php:123
+msgid "50px"
+msgstr ""
+
+#: vc-modules/text-with-button.php:17
+msgid "57,000 Online Courses"
+msgstr ""
+
+#: vc-modules/course-featured.php:96
+msgid "5th Post"
+msgstr ""
+
+#: vc-modules/product-slider.php:26 vc-modules/research.php:22
+#: vc-modules/logo-slider.php:22 vc-modules/course-slider.php:22
+msgid "6 col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:31 elementor/product-slider/class.php:37
+msgid "6 Column"
+msgstr ""
+
+#: post-meta.php:105 post-meta.php:124
+msgid "60px"
+msgstr ""
+
+#: post-meta.php:106 post-meta.php:125
+msgid "70px"
+msgstr ""
+
+#: post-meta.php:107 post-meta.php:126
+msgid "80px"
+msgstr ""
+
+#: post-meta.php:108 post-meta.php:127
+msgid "90px"
+msgstr ""
+
+#: elementor/testimonial/class.php:290
+msgid "Active Navigation Background"
+msgstr ""
+
+#: elementor/testimonial/class.php:308
+msgid "Active Navigation Border Color"
+msgstr ""
+
+#: vc-modules/logo-slider.php:41
+msgid ""
+"Add as many as logo images you want. All images must be in the same size. "
+"Recommended image size is 270x130 px."
+msgstr ""
+
+#: elementor/logo-slider/class.php:44
+msgid "Add logos as you want."
+msgstr ""
+
+#: widgets/info-widget.php:76 vc-modules/contact.php:35
+#: elementor/contact/view-1.php:16 elementor/contact/class.php:37
+#: vc-modules/views/contact-1.php:16
+msgid "Address"
+msgstr ""
+
+#: vc-modules/info-box.php:32 elementor/title/class.php:96
+msgid "Alignment"
+msgstr ""
+
+#: vc-modules/gallery.php:16 vc-modules/course-isotope.php:16
+#: elementor/course-isotope/view-1.php:25 elementor/course-search/view.php:9
+#: vc-modules/views/course-search.php:9
+msgid "All"
+msgstr ""
+
+#: vc-modules/testimonial.php:29 vc-modules/event.php:108
+#: vc-modules/product-slider.php:40 vc-modules/research.php:30
+#: vc-modules/course-featured.php:23 vc-modules/instructor-slider.php:79
+#: vc-modules/posts.php:24 vc-modules/course-grid.php:23
+#: vc-modules/course-slider.php:38 elementor/course-slider/class.php:28
+#: elementor/blog-post/class.php:20 elementor/instructor-slider/class.php:75
+#: elementor/course-grid/class.php:25 elementor/product-slider/class.php:26
+#: elementor/instructor-grid/class.php:68 elementor/research/class.php:20
+#: elementor/course-featured/class.php:20 elementor/testimonial/class.php:26
+#: elementor/event/class.php:103
+msgid "All Categories"
+msgstr ""
+
+#: elementor/event/class.php:130
+msgid "All Event"
+msgstr ""
+
+#: vc-modules/event.php:133
+msgid "All Events"
+msgstr ""
+
+#: vc-modules/gallery.php:33 vc-modules/course-isotope.php:78
+msgid "All items name"
+msgstr ""
+
+#: elementor/gallery/class.php:33
+msgid "All Items Title"
+msgstr ""
+
+#: elementor/course-slider/class.php:365 elementor/product-slider/class.php:312
+msgid "Arrow Background"
+msgstr ""
+
+#: elementor/course-slider/class.php:373 elementor/product-slider/class.php:321
+msgid "Arrow Color"
+msgstr ""
+
+#: elementor/course-slider/class.php:381 elementor/product-slider/class.php:330
+msgid "Arrow Hover Background"
+msgstr ""
+
+#: elementor/course-slider/class.php:389 elementor/product-slider/class.php:339
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: elementor/research/class.php:32 elementor/testimonial/class.php:38
+msgid "Ascending"
+msgstr ""
+
+#: vc-modules/testimonial.php:96 vc-modules/research.php:85
+msgid "Ascending "
+msgstr ""
+
+#: elementor/course-slider/class.php:299 elementor/course-isotope/class.php:160
+#: elementor/course-grid/class.php:164 elementor/course-featured/class.php:145
+msgid "Author Icon Color"
+msgstr ""
+
+#: elementor/course-slider/class.php:266 elementor/course-isotope/class.php:127
+#: elementor/course-grid/class.php:131 elementor/course-featured/class.php:104
+msgid "Author Style"
+msgstr ""
+
+#: elementor/course-slider/class.php:308 elementor/course-isotope/class.php:169
+#: elementor/course-grid/class.php:173 elementor/course-featured/class.php:153
+msgid "Author Text Color"
+msgstr ""
+
+#: vc-modules/testimonial.php:135 vc-modules/product-slider.php:126
+#: vc-modules/instructor-slider.php:263 vc-modules/logo-slider.php:114
+#: vc-modules/course-slider.php:157 elementor/course-slider/class.php:174
+#: elementor/logo-slider/class.php:129
+#: elementor/instructor-slider/class.php:222
+#: elementor/product-slider/class.php:127 elementor/testimonial/class.php:132
+msgid "Autoplay"
+msgstr ""
+
+#: vc-modules/testimonial.php:148 vc-modules/product-slider.php:156
+#: vc-modules/instructor-slider.php:297 vc-modules/logo-slider.php:144
+#: vc-modules/course-slider.php:187 elementor/course-slider/class.php:193
+#: elementor/logo-slider/class.php:148
+#: elementor/instructor-slider/class.php:241
+#: elementor/product-slider/class.php:146 elementor/testimonial/class.php:151
+msgid "Autoplay Interval"
+msgstr ""
+
+#: vc-modules/testimonial.php:185 vc-modules/product-slider.php:176
+#: vc-modules/instructor-slider.php:317 vc-modules/logo-slider.php:164
+#: vc-modules/course-slider.php:207 elementor/course-slider/class.php:208
+#: elementor/logo-slider/class.php:163
+#: elementor/instructor-slider/class.php:256
+#: elementor/product-slider/class.php:161 elementor/testimonial/class.php:166
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: post-meta.php:158 vc-modules/event.php:153 vc-modules/pricing-box.php:40
+#: vc-modules/posts.php:52
+msgid "Background Color"
+msgstr ""
+
+#: post-meta.php:157
+msgid "Background Image"
+msgstr ""
+
+#: vc-modules/video.php:32
+msgid "Background Type"
+msgstr ""
+
+#: post-meta.php:133
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:168
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:163
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:153
+msgid "Banner Background Type"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:17
+msgid "BECOME AN INSTRUCTOR"
+msgstr ""
+
+#: elementor/testimonial/class.php:265
+msgid "Blockquote Icon Color"
+msgstr ""
+
+#: elementor/blog-post/class.php:12
+msgid "Blog Post"
+msgstr ""
+
+#: elementor/contact/class.php:110
+msgid "Border Color"
+msgstr ""
+
+#: elementor/research/class.php:272
+msgid "Bottom Line Color"
+msgstr ""
+
+#: vc-modules/event.php:123 elementor/event/class.php:121
+msgid "Box"
+msgstr ""
+
+#: elementor/blog-post/class.php:210 elementor/cta/class.php:91
+#: elementor/info-box/class.php:168 elementor/instructor-grid/class.php:272
+#: elementor/image-text-box/class.php:106 elementor/pricing-box/class.php:197
+#: elementor/testimonial/class.php:272 elementor/event/class.php:398
+msgid "Box Background"
+msgstr ""
+
+#: elementor/countdown/class.php:136 elementor/course-search/class.php:173
+msgid "Box Border Color"
+msgstr ""
+
+#: elementor/info-box/class.php:175 elementor/pricing-box/class.php:207
+msgid "Box Hover Background"
+msgstr ""
+
+#: elementor/pricing-box/class.php:186
+msgid "Box Hover Text Color"
+msgstr ""
+
+#: elementor/pricing-box/class.php:176
+msgid "Box Text Color"
+msgstr ""
+
+#: elementor/course-search/class.php:63
+msgid "Box Width"
+msgstr ""
+
+#: post-meta.php:143
+msgid "Breadcrumb"
+msgstr ""
+
+#: elementor/gallery/class.php:53 elementor/text-with-title/class.php:125
+#: elementor/event-countdown/class.php:130 elementor/cta/class.php:75
+#: elementor/text-with-button/class.php:99 elementor/research/class.php:176
+msgid "Button"
+msgstr ""
+
+#: elementor/gallery/class.php:70 elementor/text-with-title/class.php:167
+#: elementor/event-countdown/class.php:203 elementor/blog-post/class.php:219
+#: elementor/instructor-slider/class.php:501 elementor/cta/class.php:105
+#: elementor/text-with-button/class.php:130 elementor/research/class.php:236
+#: elementor/pricing-box/class.php:239 elementor/event/class.php:444
+msgid "Button Background"
+msgstr ""
+
+#: elementor/gallery/class.php:86 elementor/text-with-title/class.php:178
+#: elementor/instructor-slider/class.php:519 elementor/cta/class.php:121
+#: elementor/text-with-button/class.php:141 elementor/pricing-box/class.php:259
+#: elementor/event/class.php:480
+msgid "Button Border Color"
+msgstr ""
+
+#: elementor/gallery/class.php:78 elementor/text-with-title/class.php:189
+#: elementor/event-countdown/class.php:213 elementor/blog-post/class.php:228
+#: elementor/instructor-slider/class.php:510 elementor/cta/class.php:113
+#: elementor/text-with-button/class.php:152 elementor/pricing-box/class.php:249
+#: elementor/event/class.php:453
+msgid "Button Color"
+msgstr ""
+
+#: vc-modules/event.php:216 vc-modules/research.php:101
+#: vc-modules/instructor-slider.php:224 vc-modules/posts.php:90
+#: vc-modules/course-isotope.php:90 elementor/text-with-title/class.php:76
+#: elementor/event-countdown/class.php:84 elementor/blog-post/class.php:70
+#: elementor/instructor-slider/class.php:184
+#: elementor/course-isotope/class.php:77
+#: elementor/text-with-button/class.php:50 elementor/research/class.php:91
+#: elementor/event/class.php:186
+msgid "Button Display"
+msgstr ""
+
+#: elementor/gallery/class.php:94 elementor/text-with-title/class.php:200
+#: elementor/event-countdown/class.php:223 elementor/blog-post/class.php:237
+#: elementor/instructor-slider/class.php:528 elementor/cta/class.php:129
+#: elementor/text-with-button/class.php:163 elementor/research/class.php:254
+#: elementor/pricing-box/class.php:269 elementor/event/class.php:462
+msgid "Button Hover Background"
+msgstr ""
+
+#: elementor/gallery/class.php:112 elementor/text-with-title/class.php:211
+#: elementor/instructor-slider/class.php:546 elementor/cta/class.php:145
+#: elementor/text-with-button/class.php:174 elementor/event/class.php:489
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: elementor/gallery/class.php:103 elementor/text-with-title/class.php:222
+#: elementor/event-countdown/class.php:233 elementor/blog-post/class.php:246
+#: elementor/instructor-slider/class.php:537 elementor/cta/class.php:137
+#: elementor/text-with-button/class.php:185 elementor/research/class.php:263
+#: elementor/pricing-box/class.php:283 elementor/event/class.php:471
+msgid "Button Hover Color"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:200 elementor/cta/class.php:46
+#: elementor/pricing-box/class.php:78 elementor/event/class.php:205
+msgid "Button Link"
+msgstr ""
+
+#: vc-modules/event.php:231 vc-modules/research.php:116
+#: vc-modules/pricing-box.php:95 vc-modules/instructor-slider.php:239
+#: vc-modules/event-countdown.php:95 vc-modules/text-with-button.php:56
+#: vc-modules/posts.php:101 vc-modules/cta.php:56
+#: vc-modules/text-with-title.php:56 elementor/text-with-title/class.php:85
+#: elementor/event-countdown/class.php:92 elementor/blog-post/class.php:79
+#: elementor/instructor-slider/class.php:193 elementor/cta/class.php:40
+#: elementor/text-with-button/class.php:59 elementor/research/class.php:100
+#: elementor/pricing-box/class.php:72 elementor/event/class.php:195
+msgid "Button Text"
+msgstr ""
+
+#: vc-modules/event.php:243 vc-modules/pricing-box.php:103
+#: vc-modules/instructor-slider.php:251 vc-modules/text-with-button.php:64
+#: vc-modules/cta.php:64 vc-modules/text-with-title.php:64
+#: elementor/text-with-title/class.php:92
+#: elementor/text-with-button/class.php:66
+msgid "Button URL"
+msgstr ""
+
+#: vc-modules/pricing-box.php:17
+msgid "BUY NOW"
+msgstr ""
+
+#: elementor/event/class.php:517
+msgid "Calendar Bottom Background"
+msgstr ""
+
+#: elementor/event/class.php:526
+msgid "Calendar Bottom Color"
+msgstr ""
+
+#: elementor/event/class.php:498
+msgid "Calendar Top Background"
+msgstr ""
+
+#: elementor/event/class.php:507
+msgid "Calendar Top Color"
+msgstr ""
+
+#: elementor/cta/class.php:12
+msgid "Call to Action"
+msgstr ""
+
+#: vc-modules/testimonial.php:72 vc-modules/event.php:165
+#: vc-modules/product-slider.php:58 vc-modules/research.php:52
+#: vc-modules/instructor-slider.php:352 vc-modules/posts.php:82
+#: vc-modules/course-grid.php:56 vc-modules/course-slider.php:79
+#: elementor/course-slider/class.php:69 elementor/course-grid/class.php:60
+#: elementor/product-slider/class.php:55 elementor/course-search/view.php:21
+#: elementor/testimonial/class.php:75 elementor/event/class.php:144
+#: vc-modules/views/course-search.php:21
+msgid "Categories"
+msgstr ""
+
+#: elementor/blog-post/class.php:62
+msgid "Category"
+msgstr ""
+
+#: vc-modules/info-box.php:35 elementor/title/class.php:104
+msgid "Center"
+msgstr ""
+
+#: elementor/event-countdown/class.php:187
+msgid "Colon Color"
+msgstr ""
+
+#: elementor/gallery/class.php:65 elementor/course-slider/class.php:278
+#: elementor/text-with-title/class.php:137
+#: elementor/event-countdown/class.php:158 elementor/blog-post/class.php:161
+#: elementor/countdown/class.php:107 elementor/instructor-slider/class.php:359
+#: elementor/course-isotope/class.php:139 elementor/cta/class.php:86
+#: elementor/info-box/class.php:163 elementor/course-grid/class.php:143
+#: elementor/product-slider/class.php:219
+#: elementor/instructor-grid/class.php:184 elementor/video/class.php:104
+#: elementor/image-text-box/class.php:101 elementor/course-search/class.php:93
+#: elementor/text-with-button/class.php:111 elementor/research/class.php:189
+#: elementor/pricing-box/class.php:171 elementor/contact/class.php:96
+#: elementor/counter/class.php:114 elementor/course-featured/class.php:116
+#: elementor/testimonial/class.php:235 elementor/event/class.php:339
+msgid "Color"
+msgstr ""
+
+#: elementor/logo-slider/class.php:82 elementor/product-slider/class.php:80
+#: elementor/research/class.php:118
+msgid "Columns ( Desktops > 1199px )"
+msgstr ""
+
+#: elementor/logo-slider/class.php:89 elementor/product-slider/class.php:87
+#: elementor/research/class.php:125
+msgid "Columns ( Desktops > 991px )"
+msgstr ""
+
+#: elementor/logo-slider/class.php:103 elementor/product-slider/class.php:101
+#: elementor/research/class.php:139
+msgid "Columns ( Phones < 768px )"
+msgstr ""
+
+#: elementor/logo-slider/class.php:96 elementor/product-slider/class.php:94
+#: elementor/research/class.php:132
+msgid "Columns ( Tablets > 767px )"
+msgstr ""
+
+#: elementor/contact/class.php:85
+msgid "Contact"
+msgstr ""
+
+#: elementor/contact/class.php:116
+msgid "Contact Color"
+msgstr ""
+
+#: elementor/contact/class.php:124
+msgid "Contact Icon Color"
+msgstr ""
+
+#: elementor/contact/class.php:12
+msgid "Contact Info"
+msgstr ""
+
+#: elementor/contact/class.php:74
+msgid "Contact Title"
+msgstr ""
+
+#: elementor/contact/class.php:101
+msgid "Contact Title Color"
+msgstr ""
+
+#: vc-modules/info-box.php:166 vc-modules/video.php:62
+#: vc-modules/text-with-title.php:48 elementor/text-with-title/class.php:46
+#: elementor/text-with-title/class.php:117 elementor/blog-post/class.php:117
+#: elementor/instructor-slider/class.php:321 elementor/info-box/class.php:117
+#: elementor/video/class.php:48 elementor/video/class.php:90
+#: elementor/text-with-button/class.php:44
+#: elementor/text-with-button/class.php:91 elementor/research/class.php:168
+#: elementor/testimonial/class.php:221 elementor/event/class.php:252
+msgid "Content"
+msgstr ""
+
+#: elementor/course-slider/class.php:317
+#: elementor/text-with-title/class.php:148 elementor/blog-post/class.php:193
+#: elementor/instructor-slider/class.php:406
+#: elementor/course-isotope/class.php:178 elementor/info-box/class.php:200
+#: elementor/course-grid/class.php:182 elementor/instructor-grid/class.php:263
+#: elementor/video/class.php:115 elementor/text-with-button/class.php:122
+#: elementor/research/class.php:228 elementor/course-featured/class.php:161
+#: elementor/testimonial/class.php:259 elementor/event/class.php:371
+msgid "Content Color"
+msgstr ""
+
+#: vc-modules/testimonial.php:127
+msgid "Content color"
+msgstr ""
+
+#: vc-modules/info-box.php:178
+msgid "Content Font Size"
+msgstr ""
+
+#: vc-modules/info-box.php:180
+msgid ""
+"Content font size in px eg. 15. If not defined, default body font size will "
+"be used"
+msgstr ""
+
+#: vc-modules/event.php:203 vc-modules/instructor-slider.php:181
+#: vc-modules/posts.php:73 elementor/blog-post/class.php:55
+#: elementor/instructor-slider/class.php:157
+msgid "Content Limit"
+msgstr ""
+
+#: vc-modules/info-box.php:192
+msgid ""
+"Content maximum width in px eg 360. Keep this field empty if you want full "
+"width"
+msgstr ""
+
+#: vc-modules/text-with-title.php:74
+msgid ""
+"Content maximum width in px eg 540. Keep this field empty if you want full "
+"width"
+msgstr ""
+
+#: post-meta.php:114
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:95
+msgid "Content Padding Top"
+msgstr ""
+
+#: elementor/course-slider/class.php:246 elementor/course-isotope/class.php:107
+#: elementor/course-grid/class.php:111 elementor/instructor-grid/class.php:146
+#: elementor/pricing-box/class.php:132 elementor/course-featured/class.php:85
+msgid "Content Style"
+msgstr ""
+
+#: vc-modules/info-box.php:190 vc-modules/text-with-title.php:72
+#: elementor/text-with-title/class.php:51 elementor/blog-post/class.php:123
+#: elementor/instructor-slider/class.php:328 elementor/info-box/class.php:124
+#: elementor/instructor-grid/class.php:153 elementor/pricing-box/class.php:141
+#: elementor/event/class.php:259
+msgid "Content Width"
+msgstr ""
+
+#: elementor/countdown/class.php:12
+msgid "Countdown"
+msgstr ""
+
+#: elementor/counter/class.php:12
+msgid "Counter"
+msgstr ""
+
+#: vc-modules/counter.php:54
+msgid "Counter Bottom Line Color"
+msgstr ""
+
+#: vc-modules/counter.php:47 elementor/counter/class.php:127
+msgid "Counter Color"
+msgstr ""
+
+#: vc-modules/counter.php:69
+msgid "Counter Font Size"
+msgstr ""
+
+#: vc-modules/counter.php:32 elementor/counter/class.php:38
+msgid "Counter Number"
+msgstr ""
+
+#: vc-modules/counter.php:85 elementor/counter/class.php:44
+msgid "Counter Speed"
+msgstr ""
+
+#: vc-modules/counter.php:94 elementor/counter/class.php:50
+msgid "Counter Steps"
+msgstr ""
+
+#: vc-modules/counter.php:97
+msgid "Counter steps eg. 10"
+msgstr ""
+
+#: elementor/counter/class.php:102
+msgid "Counter Style"
+msgstr ""
+
+#: post-types.php:18
+msgid "Course"
+msgstr ""
+
+#: post-types.php:35 widgets/course-cat-widget.php:50
+msgid "Course Categories"
+msgstr ""
+
+#: post-types.php:34
+msgid "Course Category"
+msgstr ""
+
+#: elementor/course-grid/class.php:12
+msgid "Course Grid"
+msgstr ""
+
+#: elementor/course-isotope/class.php:12
+msgid "Course Isotope"
+msgstr ""
+
+#: elementor/course-search/class.php:12
+msgid "Course Search"
+msgstr ""
+
+#: elementor/course-slider/class.php:12
+msgid "Course Slider"
+msgstr ""
+
+#: post-types.php:39
+msgid "Course Tag"
+msgstr ""
+
+#: post-types.php:40
+msgid "Course Tags"
+msgstr ""
+
+#: post-types.php:19
+msgid "Courses"
+msgstr ""
+
+#: vc-modules/title.php:76 vc-modules/counter.php:109
+#: vc-modules/info-box.php:220 vc-modules/pricing-box.php:133
+#: vc-modules/video.php:81 vc-modules/contact.php:69
+#: vc-modules/image-text-box.php:73 vc-modules/event-countdown.php:101
+#: vc-modules/countdown.php:67 vc-modules/cta.php:76
+#: vc-modules/text-with-title.php:78
+msgid "Css"
+msgstr ""
+
+#: vc-modules/pricing-box.php:59
+msgid "Currency sign eg. $"
+msgstr ""
+
+#: vc-modules/pricing-box.php:56 elementor/pricing-box/class.php:44
+msgid "Currency Symbol"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:145
+#: elementor/instructor-slider/class.php:128
+msgid "Custom"
+msgstr ""
+
+#: vc-modules/info-box.php:51 elementor/info-box/class.php:64
+msgid "Custom Image"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:47 vc-modules/instructor-grid.php:32
+#: elementor/instructor-slider/class.php:43
+#: elementor/instructor-grid/class.php:36
+msgid "Custom Order"
+msgstr ""
+
+#: vc-modules/testimonial.php:85 vc-modules/research.php:74
+#: vc-modules/instructor-slider.php:74 vc-modules/course-grid.php:31
+#: vc-modules/course-slider.php:46 vc-modules/instructor-grid.php:55
+#: elementor/course-slider/class.php:36
+#: elementor/instructor-slider/class.php:70 elementor/course-grid/class.php:33
+#: elementor/instructor-grid/class.php:63 elementor/research/class.php:28
+#: elementor/testimonial/class.php:34
+msgid "Custom Order (Available via Order field inside Post Attributes box)"
+msgstr ""
+
+#: post-meta.php:35
+msgid "Custom Sidebar"
+msgstr ""
+
+#: vc-modules/event-countdown.php:76 vc-modules/event-countdown.php:83
+#: elementor/event-countdown/class.php:71
+#: elementor/event-countdown/class.php:77
+msgid "Custom Title"
+msgstr ""
+
+#: vc-modules/video.php:36 vc-modules/event-countdown.php:57
+#: vc-modules/text-with-button.php:33 vc-modules/countdown.php:30
+#: vc-modules/course-search.php:31 elementor/event-countdown/class.php:54
+#: elementor/countdown/class.php:35 elementor/course-search/class.php:31
+#: elementor/text-with-button/class.php:31
+msgid "Dark Background"
+msgstr ""
+
+#: vc-modules/testimonial.php:83 vc-modules/research.php:72
+#: vc-modules/countdown.php:53 elementor/event-countdown/class.php:122
+#: elementor/blog-post/class.php:149 elementor/event/class.php:302
+#: elementor/event/class.php:324
+msgid "Date"
+msgstr ""
+
+#: elementor/countdown/class.php:51
+msgid "Date & Time"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:72 vc-modules/course-grid.php:30
+#: vc-modules/course-slider.php:45 vc-modules/instructor-grid.php:53
+#: elementor/course-slider/class.php:34
+#: elementor/instructor-slider/class.php:68 elementor/course-grid/class.php:31
+#: elementor/instructor-grid/class.php:61 elementor/research/class.php:26
+#: elementor/testimonial/class.php:32
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: elementor/event-countdown/class.php:171 elementor/blog-post/class.php:201
+msgid "Date Color"
+msgstr ""
+
+#: post-meta.php:18 post-meta.php:19 post-meta.php:27 post-meta.php:50
+#: post-meta.php:60 post-meta.php:70 post-meta.php:83 post-meta.php:98
+#: post-meta.php:117 post-meta.php:136 post-meta.php:146 post-meta.php:156
+msgid "Default"
+msgstr ""
+
+#: vc-modules/testimonial.php:95 vc-modules/research.php:84
+#: elementor/research/class.php:33 elementor/testimonial/class.php:39
+msgid "Descending"
+msgstr ""
+
+#: widgets/about-widget.php:109 elementor/info-box/class.php:46
+msgid "Description"
+msgstr ""
+
+#: vc-modules/title.php:78 vc-modules/counter.php:111
+#: vc-modules/info-box.php:222 vc-modules/pricing-box.php:135
+#: vc-modules/video.php:83 vc-modules/contact.php:71
+#: vc-modules/image-text-box.php:75 vc-modules/event-countdown.php:103
+#: vc-modules/countdown.php:69 vc-modules/cta.php:78
+#: vc-modules/text-with-title.php:80
+msgid "Design options"
+msgstr ""
+
+#: post-meta.php:182 post-meta.php:305
+#: elementor/instructor-slider/class.php:313
+#: elementor/testimonial/class.php:213
+msgid "Designation"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:395
+#: elementor/instructor-grid/class.php:205 elementor/testimonial/class.php:253
+msgid "Designation Color"
+msgstr ""
+
+#: vc-modules/testimonial.php:120
+msgid "Designation color"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:194
+#: elementor/instructor-slider/class.php:166
+msgid "Designation Display"
+msgstr ""
+
+#: elementor/instructor-grid/class.php:138
+msgid "Designation Style"
+msgstr ""
+
+#: elementor/course-slider/class.php:103
+msgid "Desktops: > 1199px"
+msgstr ""
+
+#: elementor/course-slider/class.php:115
+msgid "Desktops: > 991px"
+msgstr ""
+
+#: vc-modules/views/event-box.php:34
+msgid "Details"
+msgstr ""
+
+#: post-meta.php:138 post-meta.php:148
+msgid "Disable"
+msgstr ""
+
+#: post-meta.php:52 post-meta.php:62 vc-modules/testimonial.php:139
+#: vc-modules/testimonial.php:172 vc-modules/testimonial.php:203
+#: vc-modules/event.php:220 vc-modules/product-slider.php:130
+#: vc-modules/product-slider.php:143 vc-modules/product-slider.php:194
+#: vc-modules/research.php:105 vc-modules/pricing-box.php:114
+#: vc-modules/instructor-slider.php:198 vc-modules/instructor-slider.php:213
+#: vc-modules/instructor-slider.php:228 vc-modules/instructor-slider.php:267
+#: vc-modules/instructor-slider.php:284 vc-modules/instructor-slider.php:335
+#: vc-modules/contact.php:64 vc-modules/posts.php:94
+#: vc-modules/course-grid.php:86 vc-modules/logo-slider.php:118
+#: vc-modules/logo-slider.php:131 vc-modules/logo-slider.php:182
+#: vc-modules/course-slider.php:161 vc-modules/course-slider.php:174
+#: vc-modules/course-slider.php:225 vc-modules/instructor-grid.php:103
+#: vc-modules/course-isotope.php:94 elementor/pricing-box/class.php:92
+msgid "Disabled"
+msgstr ""
+
+#: vc-modules/pricing-box.php:111 elementor/pricing-box/class.php:89
+msgid "Display as Featured"
+msgstr ""
+
+#: elementor/contact/view-1.php:23 vc-modules/views/contact-1.php:23
+msgid "E-mail"
+msgstr ""
+
+#: vc-modules/pricing-box.php:80 elementor/pricing-box/class.php:60
+msgid "eg. month or year. Keep empty if you don't want to show unit"
+msgstr ""
+
+#: widgets/about-widget.php:85
+msgid "EIKRA"
+msgstr ""
+
+#: vc-modules/inc/abstruct.php:55
+msgid "Eikra"
+msgstr ""
+
+#. Name of the plugin
+msgid "Eikra Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Eikra Core Plugin for Eikra Theme"
+msgstr ""
+
+#. Base ID
+#: widgets/about-widget.php:13
+msgid "Eikra: About"
+msgstr ""
+
+#: widgets/about-widget.php:14
+msgid "Eikra: About Widget"
+msgstr ""
+
+#: vc-modules/cta.php:13
+msgid "Eikra: Call To Action"
+msgstr ""
+
+#: vc-modules/contact.php:13
+msgid "Eikra: Contact"
+msgstr ""
+
+#: vc-modules/countdown.php:11
+msgid "Eikra: Countdown"
+msgstr ""
+
+#: vc-modules/counter.php:13
+msgid "Eikra: Counter"
+msgstr ""
+
+#. Base ID
+#: widgets/course-cat-widget.php:13
+msgid "Eikra: Course Category"
+msgstr ""
+
+#: widgets/course-cat-widget.php:14
+msgid "Eikra: Course Category Widget"
+msgstr ""
+
+#: vc-modules/course-featured.php:13
+msgid "Eikra: Course Featured"
+msgstr ""
+
+#: vc-modules/course-grid.php:11
+msgid "Eikra: Course Grid"
+msgstr ""
+
+#: vc-modules/course-isotope.php:13
+msgid "Eikra: Course Isotope"
+msgstr ""
+
+#: vc-modules/course-search.php:13
+msgid "Eikra: Course Search"
+msgstr ""
+
+#: vc-modules/course-slider.php:13
+msgid "Eikra: Course Slider"
+msgstr ""
+
+#: vc-modules/event-countdown.php:15
+msgid "Eikra: Event Countdown"
+msgstr ""
+
+#: vc-modules/event.php:13
+msgid "Eikra: Events"
+msgstr ""
+
+#: vc-modules/gallery.php:13
+msgid "Eikra: Gallery"
+msgstr ""
+
+#: vc-modules/image-text-box.php:13
+msgid "Eikra: Image Text Box"
+msgstr ""
+
+#: vc-modules/info-box.php:7
+msgid "Eikra: Info Box"
+msgstr ""
+
+#. Base ID
+#: widgets/info-widget.php:13
+msgid "Eikra: Information"
+msgstr ""
+
+#: widgets/info-widget.php:14
+msgid "Eikra: Information Widget"
+msgstr ""
+
+#: vc-modules/instructor-grid.php:13
+msgid "Eikra: Instructor Grid"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:13
+msgid "Eikra: Instructor Slider"
+msgstr ""
+
+#: vc-modules/logo-slider.php:13
+msgid "Eikra: Logo Slider"
+msgstr ""
+
+#: vc-modules/posts.php:13
+msgid "Eikra: Post"
+msgstr ""
+
+#: vc-modules/pricing-box.php:13
+msgid "Eikra: Pricing Box"
+msgstr ""
+
+#: vc-modules/product-slider.php:17
+msgid "Eikra: Product Slider"
+msgstr ""
+
+#: vc-modules/research.php:13
+msgid "Eikra: Research Grid"
+msgstr ""
+
+#: vc-modules/title.php:13
+msgid "Eikra: Section Title"
+msgstr ""
+
+#: vc-modules/testimonial.php:13
+msgid "Eikra: Testimonial"
+msgstr ""
+
+#: vc-modules/text-with-button.php:13
+msgid "Eikra: Text With Button"
+msgstr ""
+
+#: vc-modules/text-with-title.php:13
+msgid "Eikra: Text With Title"
+msgstr ""
+
+#: vc-modules/video.php:13
+msgid "Eikra: Video"
+msgstr ""
+
+#: widgets/info-widget.php:88 vc-modules/contact.php:43
+#: elementor/contact/class.php:43
+msgid "Email"
+msgstr ""
+
+#: post-meta.php:137 post-meta.php:147
+msgid "Enable"
+msgstr ""
+
+#: vc-modules/product-slider.php:132
+msgid "Enable or disable autoplay. Default: Enable"
+msgstr ""
+
+#: elementor/course-slider/class.php:178 elementor/logo-slider/class.php:133
+#: elementor/instructor-slider/class.php:226
+#: elementor/product-slider/class.php:131 elementor/testimonial/class.php:136
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: post-meta.php:51 post-meta.php:61 vc-modules/testimonial.php:138
+#: vc-modules/testimonial.php:171 vc-modules/testimonial.php:202
+#: vc-modules/event.php:219 vc-modules/product-slider.php:129
+#: vc-modules/product-slider.php:142 vc-modules/product-slider.php:193
+#: vc-modules/research.php:104 vc-modules/pricing-box.php:115
+#: vc-modules/instructor-slider.php:197 vc-modules/instructor-slider.php:212
+#: vc-modules/instructor-slider.php:227 vc-modules/instructor-slider.php:266
+#: vc-modules/instructor-slider.php:283 vc-modules/instructor-slider.php:334
+#: vc-modules/contact.php:63 vc-modules/posts.php:93
+#: vc-modules/course-grid.php:85 vc-modules/logo-slider.php:117
+#: vc-modules/logo-slider.php:130 vc-modules/logo-slider.php:181
+#: vc-modules/course-slider.php:160 vc-modules/course-slider.php:173
+#: vc-modules/course-slider.php:224 vc-modules/instructor-grid.php:102
+#: vc-modules/course-isotope.php:93 elementor/pricing-box/class.php:91
+msgid "Enabled"
+msgstr ""
+
+#: vc-modules/testimonial.php:141 vc-modules/instructor-slider.php:269
+#: vc-modules/logo-slider.php:120 vc-modules/course-slider.php:163
+msgid "Enabled or disabled autoplay. Default: Enabled"
+msgstr ""
+
+#: post-meta.php:208
+msgid "End Date"
+msgstr ""
+
+#: post-meta.php:213
+msgid "End Time"
+msgstr ""
+
+#: vc-modules/countdown.php:55
+msgid "Enter a future date in YYYY-MM-DD format eg. 2019-11-07"
+msgstr ""
+
+#: vc-modules/video.php:77
+msgid ""
+"Enter any video link from external sources eg. http://www.youtube.com/watch?"
+"v=1iIZeIy7TqM"
+msgstr ""
+
+#: vc-modules/countdown.php:63
+msgid "Enter the time in Hour:Minute format eg. 14:50"
+msgstr ""
+
+#: elementor/course-search/view.php:36 vc-modules/views/course-search.php:36
+msgid "Enter Your Keyword ..."
+msgstr ""
+
+#: post-types.php:64 vc-modules/event-countdown.php:64
+#: elementor/event-countdown/class.php:60 elementor/event/class.php:12
+msgid "Event"
+msgstr ""
+
+#: post-types.php:93
+msgid "Event Categories"
+msgstr ""
+
+#: post-types.php:92
+msgid "Event Category"
+msgstr ""
+
+#: elementor/event-countdown/class.php:12
+msgid "Event Countdown"
+msgstr ""
+
+#: post-meta.php:195
+msgid "Event Information"
+msgstr ""
+
+#: post-meta.php:283
+msgid "Event Socials"
+msgstr ""
+
+#: elementor/event/class.php:244
+msgid "Event Title"
+msgstr ""
+
+#: elementor/event/class.php:355
+msgid "Event Title Color"
+msgstr ""
+
+#: elementor/event/class.php:363
+msgid "Event title Hover Color"
+msgstr ""
+
+#: vc-modules/event.php:130 elementor/event/class.php:127
+msgid "Event Type"
+msgstr ""
+
+#: post-types.php:65
+msgid "Events"
+msgstr ""
+
+#: elementor/research/class.php:83 elementor/event/class.php:168
+msgid "Excerpt Length"
+msgstr ""
+
+#: post-meta.php:244
+msgid "Facebook"
+msgstr ""
+
+#: widgets/about-widget.php:113
+msgid "Facebook URL"
+msgstr ""
+
+#: widgets/info-widget.php:92
+msgid "Fax"
+msgstr ""
+
+#: vc-modules/course-featured.php:16 vc-modules/logo-slider.php:16
+#: vc-modules/course-slider.php:16 elementor/course-isotope/view-2.php:35
+#: elementor/course-featured/class.php:12
+#: vc-modules/views/course-isotope-2.php:35
+msgid "Featured Courses"
+msgstr ""
+
+#: vc-modules/pricing-box.php:86 elementor/pricing-box/class.php:65
+msgid "Features"
+msgstr ""
+
+#: elementor/contact/view-1.php:36 vc-modules/views/contact-1.php:36
+msgid "Find Us On"
+msgstr ""
+
+#: vc-modules/course-search.php:16
+msgid "Find Your Preferred Courses"
+msgstr ""
+
+#: vc-modules/info-box.php:50
+msgid "FontAwesome"
+msgstr ""
+
+#: vc-modules/info-box.php:56
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: vc-modules/cta.php:41
+msgid "For best match, upload an image of 819x300 px size"
+msgstr ""
+
+#: post-meta.php:28
+msgid "Full Width"
+msgstr ""
+
+#: vc-modules/video.php:46 elementor/video/class.php:35
+msgid "Full-Screen"
+msgstr ""
+
+#: post-types.php:79
+msgid "Galleries"
+msgstr ""
+
+#: post-types.php:78 elementor/gallery/class.php:12
+msgid "Gallery"
+msgstr ""
+
+#: post-types.php:103
+msgid "Gallery Categories"
+msgstr ""
+
+#: post-types.php:102
+msgid "Gallery Category"
+msgstr ""
+
+#: elementor/gallery/class.php:29 elementor/course-slider/class.php:47
+#: elementor/course-slider/class.php:232 elementor/text-with-title/class.php:23
+#: elementor/event-countdown/class.php:46 elementor/blog-post/class.php:29
+#: elementor/countdown/class.php:27 elementor/logo-slider/class.php:39
+#: elementor/instructor-slider/class.php:85
+#: elementor/instructor-slider/class.php:280
+#: elementor/course-isotope/class.php:51 elementor/course-isotope/class.php:93
+#: elementor/cta/class.php:23 elementor/title/class.php:25
+#: elementor/title/class.php:59 elementor/info-box/class.php:23
+#: elementor/course-grid/class.php:44 elementor/course-grid/class.php:97
+#: elementor/product-slider/class.php:45 elementor/instructor-grid/class.php:78
+#: elementor/instructor-grid/class.php:124 elementor/video/class.php:28
+#: elementor/image-text-box/class.php:23 elementor/course-search/class.php:23
+#: elementor/course-search/class.php:51 elementor/text-with-button/class.php:23
+#: elementor/research/class.php:47 elementor/research/class.php:154
+#: elementor/pricing-box/class.php:23 elementor/pricing-box/class.php:104
+#: elementor/contact/class.php:23 elementor/counter/class.php:28
+#: elementor/counter/class.php:88 elementor/course-featured/class.php:45
+#: elementor/course-featured/class.php:71 elementor/testimonial/class.php:46
+#: elementor/event/class.php:112 elementor/event/class.php:227
+msgid "General"
+msgstr ""
+
+#: post-meta.php:228
+msgid "Google Map"
+msgstr ""
+
+#: post-meta.php:259
+msgid "Google Plus"
+msgstr ""
+
+#: widgets/about-widget.php:121
+msgid "Google Plus URL"
+msgstr ""
+
+#: vc-modules/event.php:122 elementor/event/class.php:120
+msgid "Grid"
+msgstr ""
+
+#: elementor/logo-slider/class.php:78 elementor/product-slider/class.php:76
+#: elementor/research/class.php:113
+msgid "Grid Column"
+msgstr ""
+
+#: vc-modules/video.php:47 elementor/video/class.php:36
+msgid "Half-Screen"
+msgstr ""
+
+#: post-meta.php:80
+msgid "Header Layout"
+msgstr ""
+
+#: demo-importer-ocdi.php:24 demo-importer-ocdi.php:122
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer.php:105 demo-importer-ocdi.php:121
+msgid "Home 1 (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:73 demo-importer-ocdi.php:171
+msgid "Home 1 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:35 demo-importer-ocdi.php:23
+msgid "Home 1 (WPBakery)"
+msgstr ""
+
+#: demo-importer.php:140 demo-importer-ocdi.php:170
+msgid "Home 1 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer.php:70 demo-importer-ocdi.php:72
+msgid "Home 1 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:31 demo-importer-ocdi.php:129
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer.php:110 demo-importer-ocdi.php:128
+msgid "Home 2 (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:80 demo-importer-ocdi.php:178
+msgid "Home 2 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:40 demo-importer-ocdi.php:30
+msgid "Home 2 (WPBakery)"
+msgstr ""
+
+#: demo-importer.php:145 demo-importer-ocdi.php:177
+msgid "Home 2 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer.php:75 demo-importer-ocdi.php:79
+msgid "Home 2 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:38 demo-importer-ocdi.php:136
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer.php:115 demo-importer-ocdi.php:135
+msgid "Home 3 (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:87 demo-importer-ocdi.php:185
+msgid "Home 3 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:45 demo-importer-ocdi.php:37
+msgid "Home 3 (WPBakery)"
+msgstr ""
+
+#: demo-importer.php:150 demo-importer-ocdi.php:184
+msgid "Home 3 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer.php:80 demo-importer-ocdi.php:86
+msgid "Home 3 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:45 demo-importer-ocdi.php:143
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer.php:120 demo-importer-ocdi.php:142
+msgid "Home 4 (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:94 demo-importer-ocdi.php:192
+msgid "Home 4 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:50 demo-importer-ocdi.php:44
+msgid "Home 4 (WPBakery)"
+msgstr ""
+
+#: demo-importer.php:155 demo-importer-ocdi.php:191
+msgid "Home 4 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer.php:85 demo-importer-ocdi.php:93
+msgid "Home 4 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:52 demo-importer-ocdi.php:150
+msgid "Home 5"
+msgstr ""
+
+#: demo-importer.php:125 demo-importer-ocdi.php:149
+msgid "Home 5 (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:101 demo-importer-ocdi.php:199
+msgid "Home 5 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:55 demo-importer-ocdi.php:51
+msgid "Home 5 (WPBakery)"
+msgstr ""
+
+#: demo-importer.php:160 demo-importer-ocdi.php:198
+msgid "Home 5 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer.php:90 demo-importer-ocdi.php:100
+msgid "Home 5 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:59 demo-importer-ocdi.php:157
+msgid "Home 6"
+msgstr ""
+
+#: demo-importer.php:130 demo-importer-ocdi.php:156
+msgid "Home 6 (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:108 demo-importer-ocdi.php:206
+msgid "Home 6 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:60 demo-importer-ocdi.php:58
+msgid "Home 6 (WPBakery)"
+msgstr ""
+
+#: demo-importer.php:165 demo-importer-ocdi.php:205
+msgid "Home 6 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer.php:95 demo-importer-ocdi.php:107
+msgid "Home 6 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:66 demo-importer-ocdi.php:164
+msgid "Home 7"
+msgstr ""
+
+#: demo-importer.php:135 demo-importer-ocdi.php:163
+msgid "Home 7 (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:115 demo-importer-ocdi.php:213
+msgid "Home 7 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:65 demo-importer-ocdi.php:65
+msgid "Home 7 (WPBakery)"
+msgstr ""
+
+#: demo-importer.php:170 demo-importer-ocdi.php:212
+msgid "Home 7 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer.php:100 demo-importer-ocdi.php:114
+msgid "Home 7 Onepage (WPBakery)"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://radiustheme.com"
+msgstr ""
+
+#: elementor/cta/class.php:52 elementor/video/class.php:61
+#: elementor/image-text-box/class.php:64
+msgid "https://example.com"
+msgstr ""
+
+#: elementor/info-box/class.php:56 elementor/info-box/class.php:63
+#: elementor/info-box/class.php:71
+msgid "Icon"
+msgstr ""
+
+#: elementor/info-box/class.php:210 elementor/product-slider/class.php:264
+#: elementor/video/class.php:124
+msgid "Icon Background"
+msgstr ""
+
+#: elementor/product-slider/class.php:280 elementor/video/class.php:130
+#: elementor/image-text-box/class.php:140
+msgid "Icon Border Color"
+msgstr ""
+
+#: elementor/info-box/class.php:219 elementor/product-slider/class.php:272
+#: elementor/video/class.php:136 elementor/image-text-box/class.php:149
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/info-box/class.php:229 elementor/product-slider/class.php:288
+#: elementor/video/class.php:142
+msgid "Icon Hover Background"
+msgstr ""
+
+#: elementor/product-slider/class.php:304 elementor/video/class.php:148
+msgid "Icon Hover Border Color"
+msgstr ""
+
+#: elementor/info-box/class.php:238 elementor/product-slider/class.php:296
+#: elementor/video/class.php:154
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/info-box/class.php:148
+msgid "Icon Padding"
+msgstr ""
+
+#: vc-modules/info-box.php:110
+msgid "Icon padding"
+msgstr ""
+
+#: vc-modules/info-box.php:112
+msgid "Icon padding in px eg. 15px. Doesn't work on custom image"
+msgstr ""
+
+#: vc-modules/info-box.php:98
+msgid "Icon size"
+msgstr ""
+
+#: vc-modules/info-box.php:100
+msgid "Icon size in px eg. 30"
+msgstr ""
+
+#: elementor/info-box/class.php:78
+msgid "Icon Style"
+msgstr ""
+
+#: vc-modules/info-box.php:83
+msgid "Icon style"
+msgstr ""
+
+#: vc-modules/info-box.php:47 elementor/info-box/class.php:60
+msgid "Icon Type"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:45 vc-modules/instructor-grid.php:30
+#: elementor/instructor-slider/class.php:41
+#: elementor/instructor-grid/class.php:34
+msgid "ID (Ascending)"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:46 vc-modules/instructor-grid.php:31
+#: elementor/instructor-slider/class.php:42
+#: elementor/instructor-grid/class.php:35
+msgid "ID (Descending)"
+msgstr ""
+
+#: post-meta.php:165 post-meta.php:170
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: vc-modules/image-text-box.php:39 vc-modules/logo-slider.php:47
+#: vc-modules/cta.php:39 elementor/logo-slider/class.php:50
+#: elementor/cta/class.php:34 elementor/info-box/class.php:92
+#: elementor/image-text-box/class.php:52
+msgid "Image"
+msgstr ""
+
+#: widgets/about-widget.php:106
+msgid "Image size should be 40x40 px"
+msgstr ""
+
+#: elementor/image-text-box/class.php:12
+msgid "Image Text Box"
+msgstr ""
+
+#: demo-importer.php:27 demo-importer-ocdi.php:349
+msgid ""
+"Import your desired demo contents between WPBakery and Elementor page "
+"builder. Please, install and activate plugin before import demo."
+msgstr ""
+
+#: elementor/info-box/class.php:12
+msgid "Info Box"
+msgstr ""
+
+#: widgets/info-widget.php:61
+msgid "Information"
+msgstr ""
+
+#: elementor/course-search/class.php:138
+msgid "Input Box Background"
+msgstr ""
+
+#: post-meta.php:274
+msgid "Instagram"
+msgstr ""
+
+#: widgets/about-widget.php:137
+msgid "Instagram URL"
+msgstr ""
+
+#: demo-importer.php:17
+msgid "Install Demo Contents"
+msgstr ""
+
+#: post-types.php:24
+msgid "Instructor"
+msgstr ""
+
+#: post-types.php:46
+msgid "Instructor Categories"
+msgstr ""
+
+#: post-types.php:45
+msgid "Instructor Category"
+msgstr ""
+
+#: elementor/instructor-grid/class.php:12
+msgid "Instructor Grid"
+msgstr ""
+
+#: post-meta.php:302
+msgid "Instructor Settings"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:12
+msgid "Instructor Slider"
+msgstr ""
+
+#: post-types.php:25
+msgid "Instructors"
+msgstr ""
+
+#: vc-modules/research.php:60 vc-modules/course-grid.php:64
+#: vc-modules/instructor-grid.php:77 elementor/course-grid/class.php:67
+#: elementor/instructor-grid/class.php:93 elementor/research/class.php:62
+msgid "Items Per Page"
+msgstr ""
+
+#: vc-modules/cta.php:16
+msgid "Join 29,12,093 Students."
+msgstr ""
+
+#: vc-modules/cta.php:17
+msgid "JOIN NOW"
+msgstr ""
+
+#: vc-modules/event-countdown.php:18
+msgid "JOIN WITH US"
+msgstr ""
+
+#: vc-modules/info-box.php:132
+msgid "keep this field empty if you don't want the title linkable"
+msgstr ""
+
+#: vc-modules/posts.php:16
+msgid "Latest Posts"
+msgstr ""
+
+#: post-meta.php:24 vc-modules/event.php:118 vc-modules/product-slider.php:79
+#: vc-modules/product-slider.php:89 vc-modules/product-slider.php:99
+#: vc-modules/product-slider.php:109 vc-modules/product-slider.php:119
+#: vc-modules/research.php:40 vc-modules/info-box.php:18
+#: vc-modules/video.php:43 vc-modules/logo-slider.php:67
+#: vc-modules/logo-slider.php:77 vc-modules/logo-slider.php:87
+#: vc-modules/logo-slider.php:97 vc-modules/logo-slider.php:107
+#: vc-modules/course-slider.php:110 vc-modules/course-slider.php:120
+#: vc-modules/course-slider.php:130 vc-modules/course-slider.php:140
+#: vc-modules/course-slider.php:150 elementor/blog-post/class.php:33
+#: elementor/info-box/class.php:27 elementor/video/class.php:32
+#: elementor/pricing-box/class.php:27
+msgid "Layout"
+msgstr ""
+
+#: post-meta.php:71 post-meta.php:84 vc-modules/research.php:43
+#: vc-modules/info-box.php:21 elementor/blog-post/class.php:36
+#: elementor/info-box/class.php:30
+msgid "Layout 1"
+msgstr ""
+
+#: post-meta.php:72 post-meta.php:85 vc-modules/research.php:44
+#: vc-modules/info-box.php:22 elementor/blog-post/class.php:37
+#: elementor/info-box/class.php:31
+msgid "Layout 2"
+msgstr ""
+
+#: post-meta.php:73 post-meta.php:86 vc-modules/research.php:45
+#: vc-modules/info-box.php:23 elementor/info-box/class.php:32
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:74 post-meta.php:87 vc-modules/info-box.php:24
+#: elementor/info-box/class.php:33
+msgid "Layout 4"
+msgstr ""
+
+#: post-meta.php:75 post-meta.php:88 vc-modules/info-box.php:25
+#: elementor/info-box/class.php:34
+msgid "Layout 5"
+msgstr ""
+
+#: post-meta.php:89
+msgid "Layout 6"
+msgstr ""
+
+#: post-meta.php:90
+msgid "Layout 7"
+msgstr ""
+
+#: post-meta.php:21
+msgid "Layout Settings"
+msgstr ""
+
+#: vc-modules/text-with-button.php:16
+msgid "Learn a new skill online on your time"
+msgstr ""
+
+#: vc-modules/info-box.php:36 elementor/title/class.php:100
+msgid "Left"
+msgstr ""
+
+#: post-meta.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: vc-modules/video.php:35 vc-modules/event-countdown.php:56
+#: vc-modules/text-with-button.php:32 vc-modules/countdown.php:29
+#: vc-modules/course-search.php:30 elementor/event-countdown/class.php:53
+#: elementor/countdown/class.php:34 elementor/course-search/class.php:30
+#: elementor/text-with-button/class.php:30
+msgid "Light Background"
+msgstr ""
+
+#: elementor/text-with-title/class.php:156 elementor/counter/class.php:135
+msgid "Line Color"
+msgstr ""
+
+#: vc-modules/image-text-box.php:67 elementor/image-text-box/class.php:58
+msgid "Link (Optional)"
+msgstr ""
+
+#: post-meta.php:254
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/about-widget.php:125
+msgid "Linkedin URL"
+msgstr ""
+
+#: vc-modules/event.php:121 elementor/event/class.php:119
+msgid "List"
+msgstr ""
+
+#: post-meta.php:223 elementor/event/class.php:294
+msgid "Location"
+msgstr ""
+
+#: elementor/event/class.php:390
+msgid "Location Color"
+msgstr ""
+
+#: widgets/about-widget.php:104
+msgid "Logo"
+msgstr ""
+
+#: elementor/logo-slider/class.php:12
+msgid "Logo Slider"
+msgstr ""
+
+#: vc-modules/testimonial.php:199 vc-modules/product-slider.php:190
+#: vc-modules/instructor-slider.php:331 vc-modules/logo-slider.php:178
+#: vc-modules/course-slider.php:221 elementor/course-slider/class.php:216
+#: elementor/logo-slider/class.php:171
+#: elementor/instructor-slider/class.php:264
+#: elementor/product-slider/class.php:169 elementor/testimonial/class.php:174
+msgid "Loop"
+msgstr ""
+
+#: vc-modules/product-slider.php:196
+msgid "Loop to first item. Default: Enable"
+msgstr ""
+
+#: vc-modules/testimonial.php:205 vc-modules/instructor-slider.php:337
+#: vc-modules/logo-slider.php:184 vc-modules/course-slider.php:227
+msgid "Loop to first item. Default: Enabled"
+msgstr ""
+
+#: elementor/course-slider/class.php:220 elementor/logo-slider/class.php:175
+#: elementor/instructor-slider/class.php:268
+#: elementor/product-slider/class.php:173 elementor/testimonial/class.php:178
+msgid "Loop to first item. Default: On"
+msgstr ""
+
+#: elementor/text-with-title/class.php:47
+#: elementor/text-with-button/class.php:45
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since printer "
+"took a galley. Rimply dummy text of the printing and typesetting industry"
+msgstr ""
+
+#: post-meta.php:41
+msgid "Main Menu"
+msgstr ""
+
+#: vc-modules/research.php:95 elementor/research/class.php:86
+#: elementor/event/class.php:171
+msgid "Maximum number of words"
+msgstr ""
+
+#: vc-modules/posts.php:76 elementor/blog-post/class.php:58
+msgid "Maximum number of words to display. Default: 13"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:160
+msgid "Maximum number of words to display. Default: 25"
+msgstr ""
+
+#: vc-modules/event.php:206 vc-modules/instructor-slider.php:184
+msgid "Maximum number of words to display. Default: 35"
+msgstr ""
+
+#: vc-modules/pricing-box.php:126
+msgid "Maximum width"
+msgstr ""
+
+#: vc-modules/pricing-box.php:129
+msgid "Maximum width in px. Keep empty if you want full width. eg. 300"
+msgstr ""
+
+#: vc-modules/counter.php:105
+msgid "Maximum width in px. Keep this field empty if you want full width"
+msgstr ""
+
+#: vc-modules/logo-slider.php:195
+msgid "Misc"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:44 vc-modules/instructor-slider.php:144
+#: vc-modules/instructor-grid.php:29 elementor/instructor-slider/class.php:40
+#: elementor/instructor-slider/class.php:127
+#: elementor/instructor-slider/class.php:295
+#: elementor/instructor-slider/class.php:304
+#: elementor/instructor-grid/class.php:33 elementor/testimonial/class.php:205
+msgid "Name"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:373
+#: elementor/instructor-grid/class.php:189
+msgid "Name Color"
+msgstr ""
+
+#: vc-modules/testimonial.php:113
+msgid "Name color"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:384
+#: elementor/instructor-grid/class.php:197
+msgid "Name Hover Color"
+msgstr ""
+
+#: elementor/instructor-grid/class.php:130
+msgid "Name Style"
+msgstr ""
+
+#: elementor/course-isotope/class.php:224 elementor/testimonial/class.php:282
+msgid "Navigation Background"
+msgstr ""
+
+#: elementor/testimonial/class.php:299
+msgid "Navigation Border Color"
+msgstr ""
+
+#: elementor/course-isotope/class.php:232
+msgid "Navigation Color"
+msgstr ""
+
+#: elementor/course-isotope/class.php:240
+msgid "Navigation Hover Background"
+msgstr ""
+
+#: elementor/course-isotope/class.php:249
+msgid "Navigation Hover Color"
+msgstr ""
+
+#: vc-modules/course-isotope.php:55 elementor/course-isotope/class.php:55
+msgid "Navigation Style"
+msgstr ""
+
+#: elementor/course-isotope/view-2.php:34
+#: vc-modules/views/course-isotope-2.php:34
+msgid "New Courses"
+msgstr ""
+
+#: elementor/logo-slider/class.php:65
+msgid "New Window"
+msgstr ""
+
+#: elementor/testimonial/class.php:247
+msgid "Nmae Color"
+msgstr ""
+
+#: elementor/event/view-1.php:60 elementor/event/view-3.php:72
+#: elementor/event/view-2.php:46 vc-modules/views/event-box.php:41
+#: vc-modules/views/event-grid.php:65 vc-modules/views/event-list.php:56
+msgid "No Events Available"
+msgstr ""
+
+#: elementor/instructor-slider/view-1.php:94
+#: elementor/instructor-slider/view-4.php:84
+#: elementor/instructor-slider/view-2.php:101
+#: elementor/instructor-grid/view-1.php:108
+#: elementor/instructor-grid/view-3.php:108
+#: elementor/instructor-grid/view-2.php:115
+#: vc-modules/views/instructor-slider-2.php:97
+#: vc-modules/views/instructor-grid-nolms-2.php:86
+#: vc-modules/views/instructor-grid-nolms-3.php:79
+#: vc-modules/views/instructor-grid-2.php:111
+#: vc-modules/views/instructor-grid-nolms-1.php:79
+#: vc-modules/views/instructor-slider-1.php:90
+#: vc-modules/views/instructor-slider-nolms-4.php:68
+#: vc-modules/views/instructor-slider-nolms-2.php:83
+#: vc-modules/views/instructor-slider-nolms-1.php:76
+#: vc-modules/views/instructor-grid-1.php:104
+#: vc-modules/views/instructor-grid-3.php:104
+#: vc-modules/views/instructor-slider-4.php:80
+msgid "No Instructors Found"
+msgstr ""
+
+#: elementor/blog-post/view-1.php:74 elementor/blog-post/view-2.php:48
+#: vc-modules/views/posts.php:73 vc-modules/views/posts-2.php:48
+msgid "No posts found"
+msgstr ""
+
+#: elementor/research/view-1.php:71 elementor/research/view-3.php:89
+#: elementor/research/view-2.php:87 vc-modules/views/research-1.php:66
+#: vc-modules/views/research-2.php:75 vc-modules/views/research-3.php:78
+msgid "No Research Found"
+msgstr ""
+
+#: elementor/testimonial/view-1.php:61 elementor/testimonial/view-3.php:61
+#: elementor/testimonial/view-2.php:53 vc-modules/views/testimonial-3.php:63
+#: vc-modules/views/testimonial-2.php:56 vc-modules/views/testimonial-1.php:63
+msgid "No Testimonial Found"
+msgstr ""
+
+#: post-meta.php:218
+msgid "Nubmer of Participants"
+msgstr ""
+
+#: elementor/event-countdown/class.php:138 elementor/countdown/class.php:87
+msgid "Number"
+msgstr ""
+
+#: elementor/event-countdown/class.php:179 elementor/countdown/class.php:128
+msgid "Number Color"
+msgstr ""
+
+#: vc-modules/product-slider.php:75 vc-modules/research.php:128
+#: vc-modules/logo-slider.php:63 vc-modules/course-slider.php:106
+msgid "Number of columns ( Desktops > 1199px )"
+msgstr ""
+
+#: vc-modules/product-slider.php:85 vc-modules/research.php:141
+#: vc-modules/logo-slider.php:73 vc-modules/course-slider.php:116
+msgid "Number of columns ( Desktops > 991px )"
+msgstr ""
+
+#: vc-modules/product-slider.php:105 vc-modules/research.php:167
+#: vc-modules/logo-slider.php:93 vc-modules/course-slider.php:136
+msgid "Number of columns ( Phones < 768px )"
+msgstr ""
+
+#: vc-modules/product-slider.php:115 vc-modules/logo-slider.php:103
+#: vc-modules/course-slider.php:146
+msgid "Number of columns ( Small Phones < 480px )"
+msgstr ""
+
+#: vc-modules/product-slider.php:95 vc-modules/research.php:154
+#: vc-modules/logo-slider.php:83 vc-modules/course-slider.php:126
+msgid "Number of columns ( Tablets > 767px )"
+msgstr ""
+
+#: vc-modules/posts.php:64
+msgid "Number of Items"
+msgstr ""
+
+#: vc-modules/event.php:190 elementor/event/class.php:160
+msgid "Number of items per page"
+msgstr ""
+
+#: elementor/course-slider/class.php:98
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: elementor/course-slider/class.php:176 elementor/course-slider/class.php:185
+#: elementor/course-slider/class.php:218 elementor/text-with-title/class.php:78
+#: elementor/event-countdown/class.php:86 elementor/blog-post/class.php:72
+#: elementor/logo-slider/class.php:131 elementor/logo-slider/class.php:140
+#: elementor/logo-slider/class.php:173
+#: elementor/instructor-slider/class.php:168
+#: elementor/instructor-slider/class.php:177
+#: elementor/instructor-slider/class.php:186
+#: elementor/instructor-slider/class.php:224
+#: elementor/instructor-slider/class.php:233
+#: elementor/instructor-slider/class.php:266
+#: elementor/course-isotope/class.php:79 elementor/course-grid/class.php:84
+#: elementor/product-slider/class.php:129
+#: elementor/product-slider/class.php:138
+#: elementor/product-slider/class.php:171
+#: elementor/instructor-grid/class.php:111
+#: elementor/text-with-button/class.php:52 elementor/research/class.php:93
+#: elementor/contact/class.php:57 elementor/testimonial/class.php:134
+#: elementor/testimonial/class.php:143 elementor/testimonial/class.php:176
+#: elementor/event/class.php:179 elementor/event/class.php:188
+msgid "Off"
+msgstr ""
+
+#: elementor/course-slider/class.php:175 elementor/course-slider/class.php:184
+#: elementor/course-slider/class.php:217 elementor/text-with-title/class.php:77
+#: elementor/event-countdown/class.php:85 elementor/blog-post/class.php:71
+#: elementor/logo-slider/class.php:130 elementor/logo-slider/class.php:139
+#: elementor/logo-slider/class.php:172
+#: elementor/instructor-slider/class.php:167
+#: elementor/instructor-slider/class.php:176
+#: elementor/instructor-slider/class.php:185
+#: elementor/instructor-slider/class.php:223
+#: elementor/instructor-slider/class.php:232
+#: elementor/instructor-slider/class.php:265
+#: elementor/course-isotope/class.php:78 elementor/course-grid/class.php:83
+#: elementor/product-slider/class.php:128
+#: elementor/product-slider/class.php:137
+#: elementor/product-slider/class.php:170
+#: elementor/instructor-grid/class.php:110
+#: elementor/text-with-button/class.php:51 elementor/research/class.php:92
+#: elementor/contact/class.php:56 elementor/testimonial/class.php:133
+#: elementor/testimonial/class.php:142 elementor/testimonial/class.php:175
+#: elementor/event/class.php:178 elementor/event/class.php:187
+msgid "On"
+msgstr ""
+
+#: vc-modules/pricing-box.php:89
+msgid ""
+"One line per feature. Put BLANK keyword if you want blank line. eg.<br/>"
+"Access to all courses<br/>Certificate after completion<br/>BLANK"
+msgstr ""
+
+#: elementor/pricing-box/class.php:67
+msgid ""
+"One line per feature. Put BLANK keyword if you want blank line. eg.<br/>"
+"Investment Plan</br>Education Loan</br>Tax Planning</br>BLANK"
+msgstr ""
+
+#: elementor/logo-slider/class.php:61
+msgid "Open Link"
+msgstr ""
+
+#: vc-modules/cta.php:71
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: vc-modules/logo-slider.php:193
+msgid "Open Link in Same Window"
+msgstr ""
+
+#: vc-modules/testimonial.php:92 vc-modules/research.php:81
+msgid "Order"
+msgstr ""
+
+#: vc-modules/testimonial.php:80 vc-modules/research.php:69
+#: vc-modules/instructor-slider.php:128 vc-modules/instructor-slider.php:141
+#: vc-modules/course-grid.php:73 vc-modules/course-slider.php:96
+#: vc-modules/instructor-grid.php:86
+msgid "Order By"
+msgstr ""
+
+#: elementor/course-slider/class.php:84
+#: elementor/instructor-slider/class.php:116
+#: elementor/instructor-slider/class.php:124 elementor/course-grid/class.php:74
+#: elementor/instructor-grid/class.php:100 elementor/research/class.php:69
+#: elementor/testimonial/class.php:82
+msgid "Order by"
+msgstr ""
+
+#: elementor/course-slider/class.php:354 elementor/course-isotope/class.php:213
+#: elementor/course-grid/class.php:219
+msgid "Others Icon Color"
+msgstr ""
+
+#: vc-modules/testimonial.php:16
+msgid "Our Happy Students"
+msgstr ""
+
+#: vc-modules/product-slider.php:20
+msgid "Our Publications"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:16
+msgid "Our Skilled Instructors"
+msgstr ""
+
+#: vc-modules/image-text-box.php:17
+msgid "Over 1125 Courses"
+msgstr ""
+
+#: elementor/course-featured/class.php:187
+msgid "Overlay Background"
+msgstr ""
+
+#: elementor/gallery/class.php:121
+msgid "Overlay Color"
+msgstr ""
+
+#: vc-modules/course-grid.php:82 vc-modules/instructor-grid.php:99
+#: elementor/course-grid/class.php:82
+msgid "Pagination"
+msgstr ""
+
+#: elementor/course-grid/class.php:230 elementor/instructor-grid/class.php:281
+#: elementor/research/class.php:281 elementor/event/class.php:406
+msgid "Pagination Background"
+msgstr ""
+
+#: elementor/course-grid/class.php:238 elementor/instructor-grid/class.php:289
+#: elementor/research/class.php:289 elementor/event/class.php:415
+msgid "Pagination Color"
+msgstr ""
+
+#: elementor/instructor-grid/class.php:109 elementor/event/class.php:177
+msgid "Pagination Display"
+msgstr ""
+
+#: elementor/course-grid/class.php:246 elementor/instructor-grid/class.php:297
+#: elementor/research/class.php:297 elementor/event/class.php:424
+msgid "Pagination Hover Background"
+msgstr ""
+
+#: elementor/course-grid/class.php:255 elementor/instructor-grid/class.php:306
+#: elementor/research/class.php:306 elementor/event/class.php:434
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: vc-modules/event.php:135 elementor/event/class.php:132
+msgid "Past Events"
+msgstr ""
+
+#: vc-modules/contact.php:51 elementor/contact/view-1.php:30
+#: elementor/contact/class.php:49 vc-modules/views/contact-1.php:30
+msgid "Phone"
+msgstr ""
+
+#: widgets/info-widget.php:80
+msgid "Phone 1"
+msgstr ""
+
+#: widgets/info-widget.php:84
+msgid "Phone 2"
+msgstr ""
+
+#: elementor/course-slider/class.php:139
+msgid "Phones: < 768px"
+msgstr ""
+
+#: post-meta.php:269
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/about-widget.php:129
+msgid "Pinterest URL"
+msgstr ""
+
+#: elementor/event-countdown/view.php:11 vc-modules/views/event-countdown.php:9
+msgid "Please Select an Event"
+msgstr ""
+
+#: elementor/course-isotope/view-2.php:36
+#: vc-modules/views/course-isotope-2.php:36
+msgid "Popular Courses"
+msgstr ""
+
+#: vc-modules/course-grid.php:35 vc-modules/course-slider.php:50
+#: elementor/course-slider/class.php:40 elementor/course-grid/class.php:37
+msgid "Popularity (Based on enrolled students)"
+msgstr ""
+
+#: elementor/course-featured/class.php:55
+msgid "Post"
+msgstr ""
+
+#: elementor/blog-post/class.php:109
+msgid "Post Title"
+msgstr ""
+
+#: vc-modules/pricing-box.php:69 elementor/product-slider/class.php:207
+#: elementor/pricing-box/class.php:51
+msgid "Price"
+msgstr ""
+
+#: elementor/pricing-box/class.php:293
+msgid "Price Background"
+msgstr ""
+
+#: elementor/course-slider/class.php:335 elementor/course-isotope/class.php:195
+#: elementor/course-grid/class.php:200 elementor/course-featured/class.php:178
+msgid "Price Background Color"
+msgstr ""
+
+#: elementor/product-slider/class.php:256 elementor/pricing-box/class.php:307
+msgid "Price Color"
+msgstr ""
+
+#: elementor/pricing-box/class.php:300
+msgid "Price Hover Background"
+msgstr ""
+
+#: elementor/pricing-box/class.php:317
+msgid "Price Hover Color"
+msgstr ""
+
+#: elementor/course-slider/class.php:255 elementor/course-isotope/class.php:116
+#: elementor/course-grid/class.php:120 elementor/pricing-box/class.php:121
+#: elementor/course-featured/class.php:93
+msgid "Price Style"
+msgstr ""
+
+#: elementor/course-slider/class.php:326 elementor/course-isotope/class.php:186
+#: elementor/course-grid/class.php:191 elementor/course-featured/class.php:169
+msgid "Price Text Color"
+msgstr ""
+
+#: elementor/pricing-box/class.php:12
+msgid "Pricing Box"
+msgstr ""
+
+#: elementor/product-slider/class.php:12
+msgid "Product Slider"
+msgstr ""
+
+#: elementor/product-slider/class.php:199
+msgid "Product Title"
+msgstr ""
+
+#: vc-modules/counter.php:16
+msgid "PROFESSIONAL TEACHER"
+msgstr ""
+
+#: post-meta.php:288
+msgid "Put your Event's Social links here"
+msgstr ""
+
+#: post-meta.php:311
+msgid "Put your social links here"
+msgstr ""
+
+#. Author of the plugin
+msgid "Radius Theme"
+msgstr ""
+
+#: elementor/init.php:91
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: elementor/course-slider/class.php:345 elementor/course-isotope/class.php:204
+#: elementor/course-grid/class.php:210 elementor/product-slider/class.php:248
+msgid "Rating Color"
+msgstr ""
+
+#: vc-modules/research.php:16
+msgid "READ MORE"
+msgstr ""
+
+#: elementor/text-with-title/class.php:86
+#: elementor/text-with-button/class.php:60
+msgid "Read More"
+msgstr ""
+
+#: elementor/info-box/class.php:94
+msgid ""
+"Recommended image size is 160x160 px.<br/>You can upload SVG format as well, "
+"to get SVG images click here: <a target=\"_blank\" href=\"https://www."
+"flaticon.com/\">flaticon.com</a>"
+msgstr ""
+
+#: elementor/logo-slider/class.php:45
+msgid "Recommended image size is 270 x 130 px."
+msgstr ""
+
+#: elementor/cta/class.php:35
+msgid "Recommended image size is 819x300 px."
+msgstr ""
+
+#: vc-modules/image-text-box.php:41
+msgid "Recommended image size<br/>Style-1: 380x150 px<br/>Style-2:350x350 px"
+msgstr ""
+
+#: elementor/image-text-box/class.php:53
+msgid "Recommended image size<br/>Style-1: 380x150 px<br/>Style-2:350x350 px."
+msgstr ""
+
+#: post-types.php:57 post-types.php:58 elementor/research/class.php:12
+msgid "Research"
+msgstr ""
+
+#: post-types.php:88
+msgid "Research Categories"
+msgstr ""
+
+#: post-types.php:87
+msgid "Research Category"
+msgstr ""
+
+#: elementor/title/class.php:108
+msgid "Right"
+msgstr ""
+
+#: post-meta.php:30
+msgid "Right Sidebar"
+msgstr ""
+
+#: vc-modules/info-box.php:86 elementor/info-box/class.php:80
+msgid "Rounded"
+msgstr ""
+
+#: widgets/about-widget.php:133
+msgid "Rss Feed URL"
+msgstr ""
+
+#: vc-modules/event-countdown.php:75 elementor/event-countdown/class.php:70
+msgid "Same as Event"
+msgstr ""
+
+#: elementor/logo-slider/class.php:64
+msgid "Same Window"
+msgstr ""
+
+#: elementor/course-search/class.php:114
+msgid "Search Icon Background"
+msgstr ""
+
+#: elementor/course-search/class.php:106
+msgid "Search Icon Color"
+msgstr ""
+
+#: elementor/course-search/class.php:130
+msgid "Search Icon Hover Background"
+msgstr ""
+
+#: elementor/course-search/class.php:122
+msgid "Search Icon Hover Color"
+msgstr ""
+
+#: vc-modules/course-search.php:38 elementor/course-search/class.php:37
+msgid "Search Title"
+msgstr ""
+
+#: vc-modules/testimonial.php:51 vc-modules/course-featured.php:49
+#: vc-modules/instructor-slider.php:103 vc-modules/course-slider.php:58
+#: elementor/course-slider/class.php:51 elementor/blog-post/class.php:101
+#: elementor/instructor-slider/class.php:101
+#: elementor/instructor-slider/class.php:286 elementor/title/class.php:15
+#: elementor/product-slider/class.php:191
+#: elementor/course-featured/class.php:49
+msgid "Section Title"
+msgstr ""
+
+#: vc-modules/course-featured.php:56 elementor/blog-post/class.php:167
+#: elementor/instructor-slider/class.php:364
+#: elementor/product-slider/class.php:224
+#: elementor/course-featured/class.php:121
+msgid "Section Title Color"
+msgstr ""
+
+#: vc-modules/testimonial.php:102
+msgid "Section Title color"
+msgstr ""
+
+#: elementor/course-isotope/view-2.php:68
+#: vc-modules/views/course-isotope-2.php:67
+msgid "SEE ALL COURSES"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:474
+#: elementor/course-search/class.php:147
+msgid "Seperator Color"
+msgstr ""
+
+#: vc-modules/testimonial.php:161 vc-modules/product-slider.php:169
+#: vc-modules/instructor-slider.php:310 vc-modules/logo-slider.php:157
+#: vc-modules/course-slider.php:200 elementor/course-slider/class.php:202
+#: elementor/logo-slider/class.php:157
+#: elementor/instructor-slider/class.php:250
+#: elementor/product-slider/class.php:155 elementor/testimonial/class.php:160
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: elementor/countdown/class.php:53
+msgid "Set date and time"
+msgstr ""
+
+#: widgets/course-cat-widget.php:66
+msgid "Show hierarchy"
+msgstr ""
+
+#: elementor/blog-post/class.php:74
+msgid "Show or Hide Button. Default: Off"
+msgstr ""
+
+#: elementor/text-with-title/class.php:80
+#: elementor/text-with-button/class.php:54
+msgid "Show or Hide Button. Default: On"
+msgstr ""
+
+#: elementor/contact/class.php:59
+msgid "Show or Hide Social Icon. Default: On"
+msgstr ""
+
+#: widgets/course-cat-widget.php:62
+msgid "Show post counts"
+msgstr ""
+
+#: vc-modules/testimonial.php:192 vc-modules/product-slider.php:183
+#: vc-modules/instructor-slider.php:324 vc-modules/logo-slider.php:171
+#: vc-modules/course-slider.php:214 elementor/course-slider/class.php:210
+#: elementor/logo-slider/class.php:165
+#: elementor/instructor-slider/class.php:258
+#: elementor/product-slider/class.php:163 elementor/testimonial/class.php:168
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: vc-modules/testimonial.php:142 vc-modules/testimonial.php:162
+#: vc-modules/testimonial.php:179 vc-modules/testimonial.php:193
+#: vc-modules/testimonial.php:206 vc-modules/product-slider.php:133
+#: vc-modules/product-slider.php:150 vc-modules/product-slider.php:170
+#: vc-modules/product-slider.php:184 vc-modules/product-slider.php:197
+#: vc-modules/instructor-slider.php:270 vc-modules/instructor-slider.php:291
+#: vc-modules/instructor-slider.php:311 vc-modules/instructor-slider.php:325
+#: vc-modules/instructor-slider.php:338 vc-modules/logo-slider.php:121
+#: vc-modules/logo-slider.php:138 vc-modules/logo-slider.php:158
+#: vc-modules/logo-slider.php:172 vc-modules/logo-slider.php:185
+#: vc-modules/course-slider.php:164 vc-modules/course-slider.php:181
+#: vc-modules/course-slider.php:201 vc-modules/course-slider.php:215
+#: vc-modules/course-slider.php:228 elementor/course-slider/class.php:169
+#: elementor/logo-slider/class.php:124
+#: elementor/instructor-slider/class.php:216
+#: elementor/product-slider/class.php:122 elementor/testimonial/class.php:127
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/course-slider/class.php:151 elementor/logo-slider/class.php:111
+#: elementor/product-slider/class.php:109
+msgid "Small Phones: < 480px"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:416
+#: elementor/instructor-grid/class.php:213 elementor/contact/class.php:130
+msgid "Social Icon Background"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:456
+#: elementor/instructor-grid/class.php:245 elementor/contact/class.php:142
+msgid "Social Icon Border Color"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:426
+#: elementor/instructor-grid/class.php:221 elementor/research/class.php:245
+#: elementor/contact/class.php:154
+msgid "Social Icon Color"
+msgstr ""
+
+#: elementor/contact/class.php:55
+msgid "Social Icon Display"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:436
+#: elementor/instructor-grid/class.php:229 elementor/contact/class.php:166
+msgid "Social Icon Hover Background"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:465
+#: elementor/instructor-grid/class.php:254 elementor/contact/class.php:178
+msgid "Social Icon Hover Border Color"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:446
+#: elementor/instructor-grid/class.php:237 elementor/contact/class.php:190
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: vc-modules/contact.php:59
+msgid "Social Links Display"
+msgstr ""
+
+#: vc-modules/contact.php:61
+msgid "Social Links which are already set in Theme Options"
+msgstr ""
+
+#: post-meta.php:286 post-meta.php:309
+msgid "Socials"
+msgstr ""
+
+#: elementor/research/class.php:76 elementor/testimonial/class.php:89
+msgid "Sort by"
+msgstr ""
+
+#: vc-modules/info-box.php:210
+msgid "Spacing After Title"
+msgstr ""
+
+#: vc-modules/info-box.php:198
+msgid "Spacing Before Title"
+msgstr ""
+
+#: vc-modules/info-box.php:200
+msgid "Spacing between icon and title in px eg. 25"
+msgstr ""
+
+#: vc-modules/info-box.php:212
+msgid "Spacing between title and content in px eg. 12"
+msgstr ""
+
+#: elementor/info-box/class.php:81
+msgid "Square"
+msgstr ""
+
+#: vc-modules/info-box.php:87
+msgid "Squire"
+msgstr ""
+
+#: vc-modules/pricing-box.php:16
+msgid "STANDARD"
+msgstr ""
+
+#: vc-modules/text-with-button.php:18
+msgid "START A FREE TRIAL"
+msgstr ""
+
+#: post-meta.php:198
+msgid "Start Date"
+msgstr ""
+
+#: post-meta.php:203
+msgid "Start Time"
+msgstr ""
+
+#: vc-modules/product-slider.php:149
+msgid "Stop autoplay on mouse hover. Default: Enable"
+msgstr ""
+
+#: vc-modules/testimonial.php:178 vc-modules/instructor-slider.php:290
+#: vc-modules/logo-slider.php:137 vc-modules/course-slider.php:180
+msgid "Stop autoplay on mouse hover. Default: Enabled"
+msgstr ""
+
+#: elementor/course-slider/class.php:187 elementor/logo-slider/class.php:142
+#: elementor/instructor-slider/class.php:235
+#: elementor/product-slider/class.php:140 elementor/testimonial/class.php:145
+msgid "Stop autoplay on mouse hover. Default: On"
+msgstr ""
+
+#: vc-modules/testimonial.php:168 vc-modules/product-slider.php:139
+#: vc-modules/instructor-slider.php:280 vc-modules/logo-slider.php:127
+#: vc-modules/course-slider.php:170 elementor/course-slider/class.php:183
+#: elementor/logo-slider/class.php:138
+#: elementor/instructor-slider/class.php:231
+#: elementor/product-slider/class.php:136 elementor/testimonial/class.php:141
+msgid "Stop on Hover"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:492
+msgid "Student Count Color"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:209
+#: elementor/instructor-slider/class.php:175
+msgid "Student Count Display"
+msgstr ""
+
+#: elementor/instructor-slider/class.php:483
+msgid "Student Text Color"
+msgstr ""
+
+#: vc-modules/title.php:27 vc-modules/testimonial.php:39
+#: vc-modules/pricing-box.php:28 vc-modules/instructor-slider.php:90
+#: vc-modules/contact.php:24 vc-modules/image-text-box.php:28
+#: vc-modules/event-countdown.php:53 vc-modules/text-with-button.php:29
+#: vc-modules/posts.php:34 vc-modules/countdown.php:26
+#: vc-modules/course-grid.php:43 vc-modules/course-search.php:27
+#: vc-modules/cta.php:28 vc-modules/course-slider.php:66
+#: vc-modules/instructor-grid.php:65 vc-modules/course-isotope.php:66
+#: vc-modules/text-with-title.php:27 elementor/course-slider/class.php:57
+#: elementor/text-with-title/class.php:27
+#: elementor/event-countdown/class.php:50 elementor/countdown/class.php:31
+#: elementor/instructor-slider/class.php:89
+#: elementor/course-isotope/class.php:65 elementor/title/class.php:30
+#: elementor/title/class.php:145 elementor/course-grid/class.php:48
+#: elementor/instructor-grid/class.php:82 elementor/image-text-box/class.php:27
+#: elementor/course-search/class.php:27 elementor/text-with-button/class.php:27
+#: elementor/research/class.php:51 elementor/contact/class.php:27
+#: elementor/testimonial/class.php:50 elementor/event/class.php:116
+msgid "Style"
+msgstr ""
+
+#: vc-modules/title.php:30 vc-modules/testimonial.php:42
+#: vc-modules/pricing-box.php:31 vc-modules/instructor-slider.php:93
+#: vc-modules/contact.php:27 vc-modules/image-text-box.php:31
+#: vc-modules/posts.php:37 vc-modules/course-grid.php:46 vc-modules/cta.php:31
+#: vc-modules/course-slider.php:69 vc-modules/instructor-grid.php:68
+#: vc-modules/course-isotope.php:69 vc-modules/text-with-title.php:30
+#: elementor/course-slider/class.php:60 elementor/text-with-title/class.php:30
+#: elementor/instructor-slider/class.php:92
+#: elementor/course-isotope/class.php:68 elementor/title/class.php:32
+#: elementor/course-grid/class.php:51 elementor/instructor-grid/class.php:85
+#: elementor/image-text-box/class.php:30 elementor/research/class.php:54
+#: elementor/pricing-box/class.php:30 elementor/contact/class.php:30
+#: elementor/testimonial/class.php:53
+msgid "Style 1"
+msgstr ""
+
+#: vc-modules/course-isotope.php:58 elementor/course-isotope/class.php:58
+msgid "Style 1 (Category Navigation)"
+msgstr ""
+
+#: vc-modules/title.php:31 vc-modules/pricing-box.php:32
+#: vc-modules/instructor-slider.php:94 vc-modules/contact.php:28
+#: vc-modules/image-text-box.php:32 vc-modules/posts.php:38
+#: vc-modules/course-grid.php:47 vc-modules/cta.php:32
+#: vc-modules/course-slider.php:70 vc-modules/instructor-grid.php:69
+#: vc-modules/course-isotope.php:59 vc-modules/course-isotope.php:70
+#: vc-modules/text-with-title.php:31 elementor/course-slider/class.php:61
+#: elementor/text-with-title/class.php:31
+#: elementor/instructor-slider/class.php:93
+#: elementor/course-isotope/class.php:59 elementor/course-isotope/class.php:69
+#: elementor/title/class.php:33 elementor/course-grid/class.php:52
+#: elementor/instructor-grid/class.php:86 elementor/image-text-box/class.php:31
+#: elementor/research/class.php:55 elementor/pricing-box/class.php:31
+#: elementor/contact/class.php:31
+msgid "Style 2"
+msgstr ""
+
+#: vc-modules/testimonial.php:43 elementor/testimonial/class.php:54
+msgid "Style 2 (Requires Dark Background)"
+msgstr ""
+
+#: vc-modules/title.php:32 vc-modules/testimonial.php:44
+#: vc-modules/pricing-box.php:33 vc-modules/instructor-slider.php:95
+#: vc-modules/course-grid.php:48 vc-modules/course-slider.php:71
+#: vc-modules/instructor-grid.php:70 vc-modules/course-isotope.php:71
+#: vc-modules/text-with-title.php:32 elementor/course-slider/class.php:62
+#: elementor/text-with-title/class.php:32
+#: elementor/instructor-slider/class.php:94
+#: elementor/course-isotope/class.php:70 elementor/title/class.php:34
+#: elementor/course-grid/class.php:53 elementor/instructor-grid/class.php:87
+#: elementor/research/class.php:56 elementor/pricing-box/class.php:32
+#: elementor/testimonial/class.php:55
+msgid "Style 3"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:96 vc-modules/course-grid.php:49
+#: vc-modules/course-slider.php:72 vc-modules/text-with-title.php:33
+#: elementor/course-slider/class.php:63 elementor/text-with-title/class.php:33
+#: elementor/instructor-slider/class.php:95 elementor/course-grid/class.php:54
+msgid "Style 4"
+msgstr ""
+
+#: vc-modules/info-box.php:154
+msgid "Subitle"
+msgstr ""
+
+#: vc-modules/title.php:47 vc-modules/image-text-box.php:55
+#: vc-modules/text-with-button.php:48 elementor/title/class.php:47
+#: elementor/title/class.php:135 elementor/image-text-box/class.php:43
+#: elementor/image-text-box/class.php:87
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/title/class.php:156 elementor/image-text-box/class.php:131
+msgid "Subtitle Color"
+msgstr ""
+
+#: vc-modules/title.php:70
+msgid "Subtitle color"
+msgstr ""
+
+#: elementor/title/class.php:87
+msgid "Subtitle Margin"
+msgstr ""
+
+#: elementor/title/class.php:63
+msgid "Subtitle Width"
+msgstr ""
+
+#: elementor/course-slider/class.php:127
+msgid "Tablets: > 767px"
+msgstr ""
+
+#: post-types.php:71 elementor/testimonial/class.php:12
+msgid "Testimonial"
+msgstr ""
+
+#: post-types.php:98
+msgid "Testimonial Categories"
+msgstr ""
+
+#: post-types.php:97
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-meta.php:179
+msgid "Testimonial Information"
+msgstr ""
+
+#: post-types.php:72
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/event-countdown/class.php:146 elementor/countdown/class.php:95
+msgid "Text"
+msgstr ""
+
+#: elementor/event-countdown/class.php:195 elementor/countdown/class.php:144
+#: elementor/course-search/class.php:155
+msgid "Text Color"
+msgstr ""
+
+#: elementor/course-search/class.php:165
+msgid "Text Hover Color"
+msgstr ""
+
+#: elementor/text-with-button/class.php:12
+msgid "Text with Button"
+msgstr ""
+
+#: elementor/text-with-title/class.php:12
+msgid "Text with Title"
+msgstr ""
+
+#: vc-modules/counter.php:88
+msgid "The total duration of the count animation in milisecond eg. 5000"
+msgstr ""
+
+#: elementor/testimonial/class.php:96
+msgid "Thumbnail Radius"
+msgstr ""
+
+#: elementor/event/class.php:286
+msgid "Time"
+msgstr ""
+
+#: vc-modules/countdown.php:61
+msgid "Time (optional)"
+msgstr ""
+
+#: elementor/event/class.php:382
+msgid "Time Color"
+msgstr ""
+
+#: widgets/info-widget.php:72 widgets/about-widget.php:100
+#: widgets/course-cat-widget.php:58 vc-modules/title.php:39
+#: vc-modules/testimonial.php:84 vc-modules/counter.php:40
+#: vc-modules/event.php:142 vc-modules/product-slider.php:50
+#: vc-modules/research.php:73 vc-modules/info-box.php:122
+#: vc-modules/pricing-box.php:48 vc-modules/instructor-slider.php:73
+#: vc-modules/video.php:54 vc-modules/image-text-box.php:47
+#: vc-modules/text-with-button.php:40 vc-modules/posts.php:45
+#: vc-modules/course-grid.php:29 vc-modules/cta.php:47
+#: vc-modules/course-slider.php:44 vc-modules/instructor-grid.php:54
+#: vc-modules/text-with-title.php:40 elementor/course-slider/class.php:35
+#: elementor/text-with-title/class.php:39
+#: elementor/text-with-title/class.php:109
+#: elementor/event-countdown/class.php:114 elementor/blog-post/class.php:43
+#: elementor/instructor-slider/class.php:69 elementor/cta/class.php:27
+#: elementor/cta/class.php:67 elementor/title/class.php:41
+#: elementor/title/class.php:128 elementor/info-box/class.php:40
+#: elementor/info-box/class.php:109 elementor/course-grid/class.php:32
+#: elementor/product-slider/class.php:50 elementor/instructor-grid/class.php:62
+#: elementor/video/class.php:42 elementor/video/class.php:82
+#: elementor/image-text-box/class.php:37 elementor/image-text-box/class.php:79
+#: elementor/text-with-button/class.php:37
+#: elementor/text-with-button/class.php:83 elementor/research/class.php:27
+#: elementor/research/class.php:160 elementor/pricing-box/class.php:38
+#: elementor/counter/class.php:32 elementor/testimonial/class.php:33
+#: elementor/testimonial/class.php:61 elementor/testimonial/class.php:196
+#: elementor/event/class.php:138 elementor/event/class.php:233
+msgid "Title"
+msgstr ""
+
+#: vc-modules/countdown.php:37 elementor/countdown/class.php:41
+#: elementor/countdown/class.php:71
+msgid "Title 1"
+msgstr ""
+
+#: elementor/countdown/class.php:112
+msgid "Title 1 Color"
+msgstr ""
+
+#: vc-modules/countdown.php:45 elementor/countdown/class.php:46
+#: elementor/countdown/class.php:79
+msgid "Title 2"
+msgstr ""
+
+#: elementor/countdown/class.php:120
+msgid "Title 2 Color"
+msgstr ""
+
+#: elementor/research/class.php:210
+msgid "Title Background"
+msgstr ""
+
+#: elementor/course-slider/class.php:283
+#: elementor/text-with-title/class.php:142
+#: elementor/event-countdown/class.php:163 elementor/blog-post/class.php:175
+#: elementor/course-isotope/class.php:144 elementor/cta/class.php:99
+#: elementor/title/class.php:150 elementor/info-box/class.php:182
+#: elementor/course-grid/class.php:148 elementor/product-slider/class.php:232
+#: elementor/video/class.php:109 elementor/image-text-box/class.php:115
+#: elementor/course-search/class.php:98
+#: elementor/text-with-button/class.php:116 elementor/research/class.php:194
+#: elementor/pricing-box/class.php:218 elementor/counter/class.php:119
+#: elementor/course-featured/class.php:129 elementor/testimonial/class.php:240
+#: elementor/event/class.php:344
+msgid "Title Color"
+msgstr ""
+
+#: vc-modules/title.php:63 vc-modules/counter.php:61
+msgid "Title color"
+msgstr ""
+
+#: vc-modules/counter.php:77 vc-modules/info-box.php:142
+msgid "Title Font Size"
+msgstr ""
+
+#: vc-modules/title.php:55
+msgid "Title font size"
+msgstr ""
+
+#: vc-modules/title.php:58
+msgid "Title font size in px eg. 30"
+msgstr ""
+
+#: vc-modules/info-box.php:144
+msgid ""
+"Title font size in px. eg 20. If not defined, default h3 font size will be "
+"used"
+msgstr ""
+
+#: elementor/research/class.php:219
+msgid "Title Hover Background"
+msgstr ""
+
+#: elementor/course-slider/class.php:291 elementor/blog-post/class.php:184
+#: elementor/course-isotope/class.php:152 elementor/info-box/class.php:191
+#: elementor/course-grid/class.php:156 elementor/product-slider/class.php:240
+#: elementor/image-text-box/class.php:122 elementor/research/class.php:202
+#: elementor/pricing-box/class.php:228 elementor/course-featured/class.php:137
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/course-slider/class.php:238 elementor/course-isotope/class.php:99
+#: elementor/course-grid/class.php:103 elementor/course-search/class.php:57
+#: elementor/pricing-box/class.php:110 elementor/counter/class.php:94
+#: elementor/course-featured/class.php:77
+msgid "Title Style"
+msgstr ""
+
+#: vc-modules/event-countdown.php:72 elementor/event-countdown/class.php:67
+msgid "Title Type"
+msgstr ""
+
+#: vc-modules/info-box.php:130
+msgid "Title URL"
+msgstr ""
+
+#: post-meta.php:231
+#, php-format
+msgid ""
+"To create your own google map, follow the steps below:<br/>Step 1: Visit "
+"%s<br/>Step 2: Search for a location using the search bar of the top-left "
+"corner<br/>Step 3: After you find the location, click on the \"Share\" icon "
+"from the left panel<br/>Step 4: A popup will come up. From there go to the "
+"\"Embed map\" tab. You will find your Google Map code. Copy and paste this "
+"code in here"
+msgstr ""
+
+#: post-meta.php:57
+msgid "Top Bar"
+msgstr ""
+
+#: post-meta.php:67
+msgid "Top Bar Layout"
+msgstr ""
+
+#: vc-modules/testimonial.php:63 vc-modules/event.php:177
+#: vc-modules/product-slider.php:66 vc-modules/instructor-slider.php:115
+#: vc-modules/course-slider.php:87 elementor/course-slider/class.php:76
+#: elementor/blog-post/class.php:48 elementor/instructor-slider/class.php:108
+#: elementor/product-slider/class.php:62 elementor/testimonial/class.php:68
+#: elementor/event/class.php:152
+msgid "Total number of items"
+msgstr ""
+
+#: post-meta.php:47
+msgid "Transparent Header"
+msgstr ""
+
+#: post-meta.php:249
+msgid "Twitter"
+msgstr ""
+
+#: widgets/about-widget.php:117
+msgid "Twitter URL"
+msgstr ""
+
+#: elementor/gallery/class.php:47 elementor/text-with-title/class.php:103
+#: elementor/event-countdown/class.php:108 elementor/blog-post/class.php:95
+#: elementor/countdown/class.php:65 elementor/cta/class.php:61
+#: elementor/title/class.php:122 elementor/info-box/class.php:103
+#: elementor/product-slider/class.php:185 elementor/video/class.php:76
+#: elementor/image-text-box/class.php:73
+#: elementor/text-with-button/class.php:77 elementor/contact/class.php:68
+#: elementor/testimonial/class.php:190
+msgid "Typography"
+msgstr ""
+
+#: elementor/pricing-box/class.php:57
+msgid "Unit"
+msgstr ""
+
+#: vc-modules/pricing-box.php:77
+msgid "Unit Name"
+msgstr ""
+
+#: vc-modules/event.php:16 vc-modules/event.php:134
+#: elementor/event/class.php:131
+msgid "Upcoming Events"
+msgstr ""
+
+#: vc-modules/info-box.php:72
+msgid "Upload icon image"
+msgstr ""
+
+#: vc-modules/logo-slider.php:54 elementor/logo-slider/class.php:55
+msgid "URL(optional)"
+msgstr ""
+
+#: elementor/video/class.php:12
+msgid "Video"
+msgstr ""
+
+#: elementor/video/class.php:66
+msgid "Video Icon"
+msgstr ""
+
+#: vc-modules/video.php:74 elementor/video/class.php:57
+msgid "Video Link"
+msgstr ""
+
+#: vc-modules/video.php:16
+msgid "Video Tour"
+msgstr ""
+
+#: vc-modules/event.php:17 vc-modules/posts.php:17
+msgid "VIEW ALL"
+msgstr ""
+
+#: demo-importer.php:24
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website."
+msgstr ""
+
+#: vc-modules/image-text-box.php:16
+msgid "Web Development"
+msgstr ""
+
+#: post-meta.php:234
+msgid "Website"
+msgstr ""
+
+#: vc-modules/title.php:16 vc-modules/text-with-title.php:16
+msgid "Welcome To Eikra"
+msgstr ""
+
+#: vc-modules/counter.php:103 elementor/counter/class.php:56
+msgid "Width"
+msgstr ""
+
+#: vc-modules/research.php:92
+msgid "Word count"
+msgstr ""
+
+#: vc-modules/testimonial.php:66 vc-modules/event.php:180
+#: vc-modules/event.php:193 vc-modules/product-slider.php:69
+#: vc-modules/research.php:63 vc-modules/instructor-slider.php:118
+#: vc-modules/posts.php:67 vc-modules/course-grid.php:67
+#: vc-modules/course-slider.php:90 vc-modules/instructor-grid.php:80
+#: elementor/course-slider/class.php:79 elementor/blog-post/class.php:51
+#: elementor/instructor-slider/class.php:111 elementor/course-grid/class.php:70
+#: elementor/product-slider/class.php:65 elementor/instructor-grid/class.php:96
+#: elementor/research/class.php:65 elementor/testimonial/class.php:71
+#: elementor/event/class.php:155 elementor/event/class.php:163
+msgid "Write -1 to show all"
+msgstr ""
+
+#: elementor/event/class.php:313
+msgid "Year"
+msgstr ""
+
+#: post-meta.php:264
+msgid "Youtube"
+msgstr ""
+
+#: elementor/gallery/class.php:129
+msgid "Zoom Icon Background"
+msgstr ""
+
+#: elementor/gallery/class.php:137
+msgid "Zoom Icon Color"
+msgstr ""

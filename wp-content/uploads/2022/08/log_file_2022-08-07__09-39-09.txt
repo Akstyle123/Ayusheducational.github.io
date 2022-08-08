@@ -1,0 +1,167 @@
+
+---Downloaded files---
+The import files for: Home 7 (Elementor) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ayusheducational
+Data file = C:\xampp\htdocs\Ayusheducational/wp-content/themes/eikra/eikra/sample-data/elementor/contents.xml
+Widget file = C:\xampp\htdocs\Ayusheducational/wp-content/themes/eikra/eikra/sample-data/elementor/widgets.wie
+Customizer file = C:\xampp\htdocs\Ayusheducational/wp-content/themes/eikra/eikra/sample-data/elementor/customizer.dat
+Redux files:
+eikra -> C:\xampp\htdocs\Ayusheducational/wp-content/themes/eikra/eikra/sample-data/elementor/options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - Popular Tags - Widget already exists
+Recent Posts - Latest Posts - Widget already exists
+
+Top Bar 5 - Left : 
+
+Custom HTML - No Title - Widget already exists
+
+Top Bar 5 - Right : 
+
+Navigation Menu - No Title - Widget already exists
+
+Footer 1 : 
+
+Eikra: About - EIKRA - Widget already exists
+
+Footer 2 : 
+
+Navigation Menu - Featured Links - Widget already exists
+
+Footer 3 : 
+
+Eikra: Information - Information - Widget already exists
+
+Footer 4 : 
+
+mks_flickr_widget - Flickr Photos - Site does not support widget
+
+
+
+---Importing Redux settings---
+Redux settings import for: eikra finished successfully!
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

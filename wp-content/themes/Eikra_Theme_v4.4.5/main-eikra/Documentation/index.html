@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Documentation - Eikra WordPress Theme</title>
+	<link rel="stylesheet" href="files/css/meanmenu.css" type="text/css" media="all">
+	<link rel="stylesheet" href="files/vendor/scrollbar/jquery.mCustomScrollbar.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="files/css/style.css" type="text/css" media="all">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="meanmenu"></div>
+		<div class="col-left">
+			<div class="left-menu" style="padding-bottom: 30px;">
+				<h2 style="padding-top: 20px;"><img src="images/logo.png"></h2>
+				<ul>
+					<li><a href="#requirements">Requirements</a></li>
+					<li><a href="#installation">Theme Installation</a></li>
+					<li><a href="#demo">Importing Demo contents</a></li>
+					<ul>
+						<li><a href="#demo-auto">Automatic Import</a></li>
+						<li><a href="#demo-alt">Alternative Import</a></li>
+					</ul>
+					<li><a href="#lms">LMS: Learning Management System</a></li>
+					<li>
+						<a href="#features">Theme Features</a>
+						<ul>
+							<li><a href="#colors">Sitewide Colors</a></li>
+							<li><a href="#logo">Logo</a></li>
+							<li><a href="#favicon">Favicon</a></li>
+							<li><a href="#preloader">Preloader</a></li>
+							<li><a href="#toparrow">Back to Top Arrow</a></li>
+							<li><a href="#header">Header and Top Bar</a></li>
+							<li><a href="#menu">Menu</a></li>
+							<li><a href="#megamenu">Multi Column Menu</a></li>
+							<li><a href="#banner">Banner</a></li>
+							<li><a href="#footer">Footer</a></li>
+							<li><a href="#typo">Typography</a></li>
+							<li><a href="#socials">Contacts & Socials</a>
+							<li><a href="#sidebar">Custom Sidebar</a>
+						</ul>
+					</li>
+					<li><a href="#layouts">Layout Settings</a></li>
+					<li><a href="#post-single">Layout Settings for Individual Post Types</a></li>
+					<li><a href="#blog">Blog Settings</a></li>
+					<li><a href="#post">Post Settings</a></li>
+					<li><a href="#error">Error Page Settings</a></li>
+					<li><a href="#woo">WooCommerce Settings</a></li>
+					<li><a href="#cpt">Custom Post Type Settings</a></li>
+					<li><a href="#research">Research</a></li>
+					<li><a href="#events">Events</a></li>
+					<li><a href="#testimonial">Testimonial</a></li>
+					<li><a href="#gallery">Gallery</a></li>
+					<li><a href="#vc-elements">Visual Composer Elements</a></li>
+					<li><a href="#css-class">Built-in CSS Classes (Advanced)</a></li>
+					<li>
+						<a href="#special">Special Tutorials</a>
+						<ul>
+							<li><a href="#s-contact">Setting up Contact Form</a></li>
+							<li><a href="#onepage">Creating One Page Navigation</a></li>
+							<li><a href="#translate">Translating Theme</a></li>
+							<li><a href="#update">Updating Theme</a></li>
+							<li><a href="#speed">Optimize Website Loading Speed</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="#trouble">Troubleshooting</a>
+						<ul>
+							<li><a href="#t-demo">Demo Content installation failed</a></li>
+							<li><a href="#t-error">404 Error in all pages</a></li>
+						</ul>
+					</li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="col-right">
+			<h1 class="title">Eikra WordPress Theme Documentation</h1>
+			<div class="top-support">For any support please don't hesitate to contact us at <a href="mailto:support@radiustheme.com">support@radiustheme.com</a>. We provide 15 hours real-time support for our customers.</div>
+			<div style="padding-top: 20px;"><i>Last Updated on: May 30, 2019 / v3.6</i></div>
+			<section id="requirements">
+				<h2>1| Requirements</h2>
+				<p>You need at least WordPress version 4.5+ installed for this theme to work properly. It is strongly recommended that you always use the latest stable version of Wordpress to ensure all known bugs and security issues are fixed. Other requirements:</p>
+				<ul>
+					<li>PHP version 5.6 or greater. But for maximum speed gain we recommend you to use PHP version 7.3+.</li>
+					<li>MySQL version 5.6 or greater OR MariaDB version 10.0 or greater.</li>
+				</ul>
+				<p>For more information about WordPress requirements you can check the official page from here: <a target="_blank" href="https://wordpress.org/about/requirements/">https://wordpress.org/about/requirements/</a></p>
+			</section>
+			<section id="installation">
+				<h2>2| Theme Installation</h2>
+				<p>When you are ready to install a theme, you must first upload the theme files and then activate the theme itself. The theme files can be uploaded in two ways:</p>
+				<ul>
+					<li><b>FTP Upload:</b> Using your FTP client, upload the non-zipped theme folder into the /wp-content/themes/ folder on your server.</li>
+					<li><b>WordPress Upload:</b> Navigate to <b>Appearance -> Themes -> Add New -> Upload</b>. Go to browse, and select the zipped theme folder. Hit "Install Now" and the theme will be uploaded and installed.</li>
+				</ul>
+				<p>Once the theme is uploaded, you need to activate it. Go to <b>Appearance -> Themes</b> and activate your chosen theme.</p>
+				<p>After that you need to install and activate the following pre-packaged plugins:</p>
+				<ol class="plugins">
+					<li>Eikra Core: <span>Required and must install plugin.</span></li>
+					<li>RT Framework: <span>Required and must install plugin.</span></li>
+					<li>Redux Framework: <span>Required and must install plugin.</span></li>
+					<li>Breadcrumb NavXT: <span>Required and must install plugin.</span></li>
+					<li>RT Demo Importer: <span>Required if you want to import demo contents. You can deactivate it after demo is imported.</span></li>
+					<li>WPBakery Page Builder: <span>Recommended. Page builder plugin.</span></li>
+					<li>LearnPress - WordPress LMS Plugin: <span>Recommended. Install if you want LMS(Learning Management System) feature.</span></li>
+					<li>LearnPress - Course Review: <span>Optional. Install if you want Courses Review feature.</span></li>
+					<li>LearnPress Courses Wishlist: <span>Optional. Install if you want Courses Wishlist feature.</span></li>
+					<li>LayerSlider WP: <span>Optional. Install if you want to use slider.</span></li>
+					<li>Theme My Login: <span>Optional. Install if you want custom registration page.</span></li>
+					<li>Contact Form 7: <span>Optional. Install if you want to use contact form.</span></li>
+					<li>Meks Simple Flickr Widget: <span>Optional. Install if you want to display Flickr images in widget.</span></li>
+					<li>WP Retina 2x: <span>Optional. Install if you want your site to be retina ready.</span></li>
+					<li>WooCommerce: <span>Optional. Install if you want ecommerce/store functionality.</span></li>
+					<li>YITH WooCommerce Quick View: <span>Optional. Install if you want quickview icon over products.</span></li>
+					<li>YITH WooCommerce Wishlist: <span>Optional. Install if you want wishlist icon over products.</span></li>
+				</ol>
+				<p><b>N.B:</b> All plugins must be installed and activated if you want your site to look exactly like demo.</p>
+				<p>To install these plugins, navigate to <b>Appearance -> Install Plugins</b> and start installation.</p>
+				<p><img src="images/1.jpg"></p>
+				<p class="mt30">After installation process complete you have to activate these plugins.</p>
+				<p><img src="images/82.jpg"></p>
+			</section>
+			<section id="demo">
+				<h2>3| Importing Demo contents</h2>
+				<p>We are providing you two methods for importing demo contents: Automatic and Alternative. You can follow either one of these methods.</p>
+				<ol>
+					<li><b>Automatic (Recommended)</b>: This method will remove all your existing data, so use this method only in fresh website. This procedure will be faster because you just have to do one click and then everything will happen automatically. If you want an exact clone of demo website without doing any manual configuration after importing data then this method is appropiate for you.</li>
+					<li class="mt10"><b>Alternative</b>: Use this method only if:
+						<ul>
+							<li>Automatic demo import method fails ( Only few of our customers like 5% have experienced this issue due to their hosting limits, in that case we also provide free demo importing service if you contact with us).</li>
+							<li>You already have a working website with existing contents(eg. posts, pages etc).</li>
+							<li>You don't care about other configurations(eg. various plugin settings), you just want to import posts,pages etc from the demo.</li>
+						</ul>
+					</li>
+				</ol>
+			</section>
+			<section id="demo-auto">
+				<h2>3.1| Automatic Import</h2>
+				<p>Want to build your site like the demo? You can do it by only one click!</p>
+				<p style="color:red;"><i><b>** Note: Before proceeding, please remember that when you are done with the demo import, all existing settings and contents will be removed and replaced by the demo contents. So it is highly recommended that you should only do this in fresh site. **</b></i></p>
+				<p>First please make sure that Eikra Parent Theme is activated on your site.</p>
+				<p>From Admin menu, navigate to <b>Tools -> Demo Content Install</b>. Or alternatively,  navigate to <b>Plugins -> RT Demo Importer -> Install Demo Contents</b>.</p>
+				<p><img src="images/40.png"></p>
+				<p class="mt30">In this page, Click on the <b>Install</b> button for installing the demo.</p>
+				<p><img src="images/2.jpg"></p>
+				<p class="mt30">It will take some time for importing the demo contents.</p>
+				<p>After importing demo data, please update your permalink. To update permalink, navigate to <b>Settings -> Permalink</b> and then click on <b>Save Settings</b> button.</p>
+				<p><img src="images/41.jpg"></p>
+				<p class="mt30">Here's a quick video tutorial about demo importing:</p>
+				<p><iframe width="640" height="360" src="https://www.youtube.com/embed/v7_UcjlPOsM" frameborder="0" allowfullscreen></iframe></p>
+				<p class="mt30" style="color:red;">If you face any issue please check the Troubleshooting Section(20.1) from <a href="#t-demo">here</a>.</p>
+			</section>
+			<section id="demo-alt">
+				<h2>3.2| Alternative Import</h2>
+				<p>Here's the steps:</p>
+				<ol>
+					<li>First install and activate plugin <b>One Click Demo Import</b>. Here's the plugin link: <a target="_blank" href="https://wordpress.org/plugins/one-click-demo-import/">https://wordpress.org/plugins/one-click-demo-import/</a></li>
+					<li>From Admin menu, navigate to <b><i>Appearance -> Import Demo Data</i></b>.</li>
+					<li>On this page, click on the "Import" button for installing any demo.<p class="mt20"><img src="images/86.jpg"></p></li>
+					<li class="mt20">You have to import sliders manually. To do that, navigate to <b><i>LayerSlider WP</i></b> from Admin menu, then click on "Import Sliders" option. In the next step when file uploading option appears, select the "slider.zip" file from <b>sample-data</b> directory(inside theme folder) and start importing.<p class="mt20"><img src="images/87.jpg"></p><p class="mt20"><img src="images/88.jpg"><p class="mt20">After importing sliders you have to set the slider on home page manually using Page Builder.</p></li>
+					<li>This theme comes with many pre-packaged plugins eg. Contact Form 7, Breadcrumb NavXT, LearnPress etc . You should also configure these plugin settings too as per your needs.</li>
+				</ol>
+			</section>
+			<section id="lms">
+				<h2>4| LMS: Learning Management System</h2>
+				<p><i>Note: You can use this theme with or without LMS functionality. We are using plugin <b>LearnPress</b> to facilitate LMS features. So to acativate the LMS features in your website just install and activate the <b>LearnPress</b> plugin. If you don't need LMS functionality just deactivate the <b>LearnPress</b> plugin. Either you use <b>LMS</b> or not the demo pages almost look the same.</i></p>
+				<p class="mt30">We are using plugin <b>LearnPress</b> here for LMS functionalities, so you can check the plugin documentations and tutorials from the plugin website.</p>
+				<p class="mt20"><b>Here's the plugin link:</b> <a target="_blank" href="https://wordpress.org/plugins/learnpress/">https://wordpress.org/plugins/learnpress/</a><br/><b>Here's the official documentation link:</b> <a target="_blank" href="http://docs.thimpress.com/learnpress/">http://docs.thimpress.com/learnpress</a></p>
+				<p><b>And here's the official step-by-step video tutorial:</b></p>
+				<p><iframe width="640" height="360" src="https://www.youtube.com/embed/zTtZ_CpWDOY" frameborder="0" allowfullscreen></iframe></p>
+			</section>
+			<section id="features"></section>
+			<section id="colors">
+				<h2>5.1| Sitewide Colors</h2>
+				<p>From Admin menu, navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>General</i></b> tab.</p>
+				<p>Choose your preferred primary and secondary color from the color palette.</p>
+				<p><img src="images/3.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="logo">
+				<h2>5.2| Logo</h2>
+				<p>From Admin menu, navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Header</i></b> tab.</p>
+				<p>From here you can upload your main logo and light logo. Light logo will be used when "Transparent header" is enabled.</p>
+				<p><img src="images/5.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="favicon">
+				<h2>5.3| Favicon</h2>
+				<p>Favicon is the little icon which you see at the address bar of your browser.</p>
+				<p><img src="images/77.jpg"></p>
+				<p class="mt30">To set this, from Admin menu navigate to <b><i>Appearance -> Customize</i></b> link.</p>
+				<p><img src="images/78.jpg"></p>
+				<p class="mt30">Then navigate to <b><i>Site Identity</i></b></p>
+				<p><img src="images/79.jpg"></p>
+				<p class="mt30">From there you can upload the "Site Icon" which will be used as favicon</p>
+				<p><img src="images/80.jpg"></p>
+				<p class="mt30">For more details, here's the WordPress official instruction link for setting up favicon: <a target="_blank" href="https://codex.wordpress.org/Creating_a_Favicon#WordPress_Version_4.3_or_later">https://codex.wordpress.org/Creating_a_Favicon</a></p>
+			</section>
+			<section id="preloader">
+				<h2>5.4| Preloader</h2>
+				<p>From Admin menu, navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>General</i></b> tab</p>
+				<p>Here you can find the option for enabling/disabling "Preloader" option. Also you can upload your custom preloader image. When uploading image, make sure it's a transparent GIF image.</p>
+				<p><img src="images/59.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="toparrow">
+				<h2>5.5| Back to Top Arrow</h2>
+				<p>From Admin menu, navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>General</i></b> tab</p>
+				<p>Here you can find the option for enabling/disabling "Back to Top Arrow" option. Choose your preferred option</p>
+				<p><img src="images/4.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="header">
+				<h2>5.6| Header and Top Bar</h2>
+				<p>To change the Header related settings, please go to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Header</i></b> tab. Following features are available:</p>
+				<ul>
+					<li>There are several Header and Top Bar Layouts. You can choose your preferred layout combinations from here. You can change this settings from any individual pages too.</li>
+					<li>You have options to enable/disable Sticky Header.</li>
+					<li>You have options to enable/disable Top Bar and Transparent Header Globally. You can change this settings from individual pages too.</li>
+					<li>You can change Top Bar color, background color etc.</li>
+					<li>There are several icons which are displayed beside the navigation menu. You can enable/disable it from here.</li>
+				</ul>
+				<p class="mt30"><img src="images/7.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="menu">
+				<h2>5.7| Menu</h2>
+				<p>You can create menus from <b><i>Appearance -> Menus</i></b> Page. This is standard WordPress functionality. To display any menu on site header, please select the menu location as "Primary Menu".</p>
+				<p>To customize the menu settings, navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Main Menu</i></b> tab.</p>
+				<p>From here you can change the menu display behaviour. You can set menu fonts and colors as well.</p>
+				<p><img src="images/6.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="megamenu">
+				<h2>5.8| Multi Column Menu</h2>
+				<p>Multi column menu looks like this:</p>
+				<p><img src="images/54.jpg"></p>
+				<p class="mt30">To make any menu item multi column, you have to add some specific classes in the parent menu item. Here's an example:</p>
+				<p><img src="images/55.png"></p>
+				<p class="mt30">Here I used css class <b>mega-menu</b> which turns the submenu items into multi column. Also i used another class <b>hide-header</b> which hides the title "Column 1" and "Column 2" inside menu.</p>
+				<p class="mt30">NB: If you can't see the field "CSS Classes", you have to enable it first. To do this, go to the top and follow this screenshot below: </p>
+				<p><img src="images/56.jpg"></p>
+			</section>
+			<section id="banner">
+				<h2>5.9| Banner</h2>
+				<p>You can change the color related settings of Post title and Breadcrumbs from Banner. To do this, navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Banner</i></b> tab.</p>
+				<p><img src="images/60.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="footer">
+				<h2>5.10| Footer</h2>
+				<p>To change the footer settings, navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Footer</i></b> tab. It looks like this:</p>
+				<p><img src="images/9.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+				<p class="mt30">To set up footer widgets, navigate to <b><i>Appearance -> Widgets</i></b>. Here you can find available footer widget areas.</p>
+				<p><img src="images/8.jpg"></p>
+			</section>
+			<section id="typo">
+				<h2>5.11| Typography</h2>
+				<p>You can change the typography of Body and Headers. To do this, go to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Typography</i></b> tab.</p>
+				<p><img src="images/11.jpg"></p>
+				<p>After changing the Typography settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="socials">
+				<h2>5.12| Contact & Socials</h2>
+				<p>You can set up your contact and social info which are displayed in Top Bar and Footer. To do this, navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Contact & Socials</i></b> tab.</p>
+				<p><img src="images/55.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="sidebar">
+				<h2>5.13| Custom Sidebar</h2>
+				<p>You can create as many as Custom Sidebar as you want. Also you can replace the Default Sidebar with your Custom Sidebar easily in any page. To create a new custom sidebar, navigate to <b><i>Appearance -> Widgets</i></b>. Here you'll see the option for creating new sidebar.</p>
+				<p><img src="images/66.jpg"></p>
+				<p class="mt30">After your custom sidebar has been created, you can place this sidebar in any individual page. To do that, you have to choose this custom sidebar in <b>Layout Settings</b> option. This part is explained in <b>Section-6</b> and <b>Section-7</b> below.</p>
+			</section>
+			<section id="layouts">
+				<h2>6| Layout Settings</h2>
+				<p>From here you can set default layouts for pages, blog, posts etc. You can find this settings on <b><i>Appearance -> Eikra Options</i></b> and then <b><i>Layout Defaults</i></b> tab.</p>
+				<p>This settings is similar for all submenus under "Layout Defaults", so for convenience i'll just describe for one item (<b>Single Research</b>).</p>
+				<p><img src="images/20.jpg"></p>
+				<div class="mt30"></div>
+				<p><b>Layout:</b> You can choose various layout types for pages eg. Left Sidebar, Right Sidebar, Full Width.</p>
+				<p><b>Custom Sidebar:</b> You can choose either default sidebar or any custom sidebar. If this field is empty then default sidebar will be used.</p>
+				<p><b>Content Padding Top:</b> Paddings at the top of page contents. (see image below).</p>
+				<p><b>Content Padding Bottom:</b> Paddings at the bottom of page contents.(see image below).</p>
+				<p><b>Banner:</b> You can enable or disable banner (see image below).</p>
+				<p><b>Breadcrumb:</b> You can enable or disable breadcrumb (see image below).</p>
+				<p><b>Banner Background Type:</b> You can choose weather you want a background image or background color for banner.</p>
+				<p><b>Banner Background Color/Image:</b> You can select the banner background color or image from here.</p>
+				<p><img src="images/17.jpg"></p>
+			</section>
+			<section id="post-single">
+				<h2>7| Layout Settings for Individual Post Types</h2>
+				<p>You can override the above settings for individual post types. For any post types (like Posts, Pages, Case Studies, Team, Portfolio etc), when you go to <b><i>Add New</i></b> or <b><i>Edit</i></b> page, you can find similar settings like above under the "Layout Settings" box. If you change any settings from here, this will take priority. If you choose default, settings from the <b><i>Eikra Options -> Layout Defaults</i></b> (described above) will be used.</p>
+				<p><img src="images/19.jpg"></p>
+			</section>
+			<section id="blog">
+				<h2>8| Blog Settings</h2>
+				<p>Navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Blog Settings</i></b> tab. From here you can change Blog/Archive related settings.</p>
+				<p><img src="images/62.jpg"></p>
+				<p class="mt30">Also you can upload an alternave preview image which will be used as featured image when no fetured image exists in some layouts (For example, Blog Layout 2). To do this, go to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>General</i></b> tab. It'll look like this:</p>
+				<p><img src="images/65.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="post">
+				<h2>9| Post Settings</h2>
+				<p>Navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Post Settings</i></b> tab. From here you can change settings for single post .</p>
+				<p><img src="images/63.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="error">
+				<h2>10| Error Page Settings</h2>
+				<p>Navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>Error Page Settings</i></b> tab. Settings will look like this:</p>
+				<p><img src="images/21.jpg"></p>
+				<p class="mt30">This part is well explained in the image below:</p>
+				<p><img src="images/22.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="woo">
+				<h2>11| WooCommerce Settings</h2>
+				<p>Navigate to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>WooCommerce</i></b> tab. Here you'll find WooCommerce related options:</p>
+				<p><img src="images/50.jpg"></p>
+				<p>After changing the settings, Click on <b><i>Save Changes</i></b> button.</p>
+			</section>
+			<section id="cpt">
+				<h2>12| Custom Post Type Settings</h2>
+				<p>We have created several custom post types eg. Research, Events etc. You can change the slug (which is used as part of url) of these custom post types easily. To do this, go to <b><i>Appearance -> Eikra Options</i></b>. Then go to <b><i>General</i></b> tab. Here you'll find these options:</p>
+				<p><img src="images/64.jpg"></p>
+				<p class="mt30">Also you can set up root/archive pages for these Custom Post Types which will be used as breadcrumb. To do this, navigate to <b><i>Settings -> Breadcrumb NavXT</i></b>. In this page, Click on the <b><i>Post Types</i></b> tab.</p>
+				<p>Then select the root pages for Case Studies, Team and Portfolio like the image below. It'll be used as archive page.</p>
+				<p><img src="images/39.jpg"></p>
+			</section>
+			<section id="research">
+				<h2>13| Research</h2>
+				<p>You can add Research from <b><i>Research</i></b> menu. For each Research you'll see the following settings:</p>
+				<p><img src="images/25.jpg"></p>
+				<p class="mt30">For displaying Research, we have created visual composer elements for you. From Visual Composer, Go to <b><i>Eikra</i></b> tab, here you'll see <b><i>Eikra: Research Grid</i></b> element.</p>
+				<p><img src="images/47.jpg"></p>
+			</section>
+			<section id="events">
+				<h2>14| Events</h2>
+				<p>You can add Event from <b><i>Events</i></b> menu. For each Events you'll see the following settings:</p>
+				<p><img src="images/14.jpg"></p>
+				<p class="mt30">For displaying Events, we have created visual composer elements for you. From Visual Composer, Go to <b><i>Eikra</i></b> tab, here you'll see <b><i>Eikra: Events</i></b> element.</p>
+				<p><img src="images/23.jpg"></p>
+			</section>
+			<section id="testimonial">
+				<h2>15| Testimonial</h2>
+				<p>You can add testimonials from <b><i>Testimonials</i></b> menu. For each testimonial you'll see the following settings:</p>
+				<p><img src="images/27.jpg"></p>
+				<p class="mt30">For displaying testimonials, we have created visual composer elements for you. From Visual Composer, Go to <b><i>Eikra</i></b> tab, here you'll see <b><i>Eikra: Testimonial</i></b> element.</p>
+				<p><img src="images/61.jpg"></p>
+			</section>
+			<section id="gallery">
+				<h2>16| Gallery</h2>
+				<p>You can add Gallery images from <b><i>Galleries</i></b> menu. For each Gallery image you'll see the following settings:</p>
+				<p><img src="images/26.jpg"></p>
+				<p class="mt30">For displaying Gallery, we have created visual composer elements for you. From Visual Composer, Go to <b><i>Eikra</i></b> tab, here you'll see <b><i>Eikra: Gallery</i></b> element.</p>
+				<p><img src="images/49.jpg"></p>
+			</section>
+			<section id="vc-elements">
+				<h2>17| Visual Composer Elements</h2>
+				<p>We have created several visual composer elements for you. You can find them from <b><i>Eikra</i></b> tab in the visual composer</p>
+				<p><img src="images/24.jpg"></p>
+			</section>
+			<section id="css-class">
+				<h2>18| Built-in CSS Classes (Advanced)</h2>
+				<p>You can use the following built-in css classes if needed:</p>
+				<ul class="special-list">
+					<li><span>primary-color</span>: set primary color</li>
+					<li><span>secondery-color</span>: set secondery color</li>
+					<li><span>primary-bgcolor</span>: set primary background color</li>
+					<li><span>secondery-bgcolor</span>: set secondery background color</li>
+				</ul>
+			</section>
+			<section id="special"></section>
+			<section id="s-contact">
+				<h2>19.1| Setting up Contact Form</h2>
+				<p>We are using plugin "Contact Form 7" for contact functionality. You can see their documentation for better understanding.</p>
+				<p>If you don't want to go through all the troubles to check their documentation and just want to use the default contact form we provided with this theme, <b>please at least set up the default emails in contact form settings.</b> To do that, please follow the steps below:</p>
+				<p class="mt30"><b><u>Step 1:</u></b> Navigate to <b><i>Contact</i></b>, and then click on <b><i>Contact</i></b> link.</p>
+				<p class="mt10"><img src="images/57.jpg"></p>
+				<p class="mt30"><b><u>Step 2:</u></b> From this page, click on <b><i>Mail</i></b> tab. Here you should set your own email address where you want to receive user submitted forms. Then click on save button.</p>
+				<p class="mt10"><img src="images/58.jpg"></p>
+				<p class="mt30"><b><u>Step 3:</u></b> Please submit some dummy forms from Contact page to make sure that it's working properly.</p>
+			</section>
+			<section id="onepage">
+				<h2>19.2| Creating One Page Navigation</h2>
+				<p>Creating one page navigation can be done by using default wordpress functionalities. Heres the steps below: </p>
+				<p class="mt30"><b><u>Step 1:</u></b> When creating the homepage using visual composer, give an id to every row.</p>
+				<p class="mt10"><img src="images/51.jpg"></p>
+				<p class="mt30"><img src="images/52.jpg"></p>
+				<p class="mt30"><b><u>Step 2:</u></b> When creating the menu items, use the "Custom Links" box and use that row id as menu URL.</p>
+				<p class="mt10"><img src="images/53.jpg"></p>
+				<p class="mt30">You can watch this video for better understanding:</p>
+				<p><iframe width="640" height="360" src="https://www.youtube.com/embed/_RoEXo4S8Wo" frameborder="0" allowfullscreen></iframe></p>
+			</section>
+			<section id="translate">
+				<h2>19.3| Translating Theme</h2>
+				<p>You can translate this theme to another language easily. You have to translate several things for your website to work properly:</p>
+				<ul style="font-weight:bold;">
+					<li>Theme: Eikra</li>
+					<li>Plugin: Eikra Core</li>
+					<li>Plugin: LearnPress</li>
+					<li>Plugin: LearnPress Course Review</li>
+					<li>Plugin: LearnPress Wishlist</li>
+				</ul>
+				<p><i>You can skip translating LearnPress specific plugins if you're not using LMS functionality.</i></p>
+				<p>There are many tools available for translation. But the easiest way is to use plugin "<b>Loco Translate</b>". Using this plugin, you can literally translate any WordPress themes or plugins if it supports translation.</p>
+				<p class="mt30"><b>--- Here's a step by step tutorial about translating any themes and plugins using "Loco Translate":</b></p>
+				<p class="mt30"><b><u>Step 1:</u></b> Install and activate plugin "Loco Translate".</p>
+				<p class="mt10"><img src="images/67.jpg"></p>
+				<p class="mt30"><b><u>Step 2:</u></b> Select the Theme or Plugin you want to translate from "Loco Translate" menu.</p>
+				<p class="mt10"><img src="images/68.jpg"></p>
+				<p><img src="images/69.jpg"></p>
+				<p class="mt30"><b><u>Step 3:</u></b> If there's any existing translation available for your language, you can copy that translation and start from there. Or you can create the whole translation from scratch.</p>
+				<ul>
+					<li>
+						<p><b><u>Step 3.1:</u></b> Creating translation from scratch:</p>
+						<p>Click on "New language" link.</p>
+						<p><img src="images/70.jpg"></p>
+						<p class="mt30">Select your preferred language, and also select your location as "System". Then click on "Start Translating" button.</p>
+						<p><img src="images/71.jpg"></p>
+					</li>
+					<li>
+						<p class="mt30"><b><u>Step 3.2:</u></b> Start from existing translation:</p>
+						<p>Click on "Copy" link at the bottom of your preferred language.</p>
+						<p><img src="images/72.jpg"></p>
+						<p class="mt30">Select your preferred language, select your location as "System" and also select "Template options" like the image below.  Then click on "Start Translating" button.</p>
+						<p><img src="images/73.jpg"></p>
+					</li>
+				</ul>
+				<p class="mt30"><b><u>Step 4:</u></b> Click on the "Sync" button for the first time. Then start translating strings like the image below.</p>
+				<p><img src="images/74.jpg"></p>
+				<p class="mt30">Here's a quick video tutorial about how to use <b>Loco Translate</b>:</p>
+				<p><iframe width="640" height="360" src="https://www.youtube.com/embed/3Fohy96uSzY" frameborder="0" allowfullscreen></iframe></p>
+				<!-- 
+				<p class="mt50">There is a bug in <b>LearnPress Course Review</b> plugin for which translation may not work properly for this plugin. Fortunately there's a very easy fix. Go to the "Advanced" section of that plugin settings and modify the "Text domain" and "File prefix" field like the images below:</p>
+				<p class="mt30"><img src="images/75.jpg"></p>
+				<p class="mt30"><img src="images/76.jpg"></p>
+				<p class="mt30"><i>We already reported this bug and hopefully original plugin developers will fix this soon.</i></p>
+				 -->
+			</section>
+			<section id="update">
+				<h2>19.4| Updating Theme</h2>
+				<p>Occationally we provide updates which includes new features and bugfixes. Updating WordPress theme is standard WordPress functionality.</p>
+				<p class="mt30" style="color:red;"><b><u>Before Updating Theme</u></b>:</p>
+				<div style="color:red;"><i><b>** Before updating please make sure to keep a backup of your installed theme and plugins (eg. Eikra Core) to be on safe side.</b></i></div>
+				<p>You can use this plugin to keep the backup: <a target="_blank" href="https://wordpress.org/plugins/wp-theme-plugin-download/">https://wordpress.org/plugins/wp-theme-plugin-download/</a></p>
+				<p class="mt30">There are few ways to update WordPress theme. You can follow any of the methods described below:</p>
+				<p><b><u>Method 1: Automatic Update by Using Envato Market Plugin</u></b></p>
+				<ol>
+					<li>Install and activate the "Envato Market" plugin manually. Here's the plugin zip file: <a href="http://envato.github.io/wp-envato-market/dist/envato-market.zip">http://envato.github.io/wp-envato-market/dist/envato-market.zip</a></li>
+					<li>From WordPress Admin Panel, navigate to <b>"Envato Market"</b> menu.</li>
+					<li>In this page, you'll find a field for insering Envato Token. Insert your Envato Token Code from there. You can generate this code from this link: <a href="https://build.envato.com/create-token/?purchase:download=t&purchase:verify=t&purchase:list=t">https://build.envato.com/create-token/?purchase:download=t&purchase:verify=t&purchase:list=t</a>.</br><i>Remember, while generating the token, you have to login using the same envato id which you used to purchase theme.</i></li>
+					<li>After completed the above steps successfully, Navigate to <b>Appearance -> Themes</b>. Here you'll see an "Update now" link beside your theme. Click on that link and your theme will be updated automatically.</li>
+				</ol>
+				<p>Here's a quick video tutorial explaining this method:</p>
+				<p><iframe width="640" height="360" src="https://www.youtube.com/embed/fhRFhXnuP1I" frameborder="0" allowfullscreen></iframe></p>
+				<p class="mt30"><b><u>Method 2: By Uploading zip File</u></b></p>
+				<ol>
+					<li>From WordPress Admin Panel, Navigate to <b>Appearance -> Themes</b>.</li>
+					<li>Activate any other theme (eg. Twenty Seventeen) than the current one.</li>
+					<li>Delete <b><i>Eikra</i></b> Theme.</li>
+					<li>Now you have to upload the updated theme zip file. To do this, Navigate to <b>Appearance -> Themes -> Add New -> Upload</b>. Go to browse, and select the zipped theme folder. Hit "Install Now" and the theme will be uploaded and installed.</li>
+				</ol>
+				<p><b><u>Method 3: By FTP</u></b></p>
+				<ol>
+					<li>Using your FTP client, navigate to "/wp-content/themes/" folder on your server and delete the "Eikra" folder from there.</li>
+					<li>Now upload the latest non-zipped theme folder into that "/wp-content/themes/" folder .</li>
+				</ol>
+				<p class="mt30" style="color:red;"><b><u>After Updating Theme</u></b>:</p>
+				<p style="color:red;"><i><b>** After updating the theme please update all plugins which come with the theme.</b></i></p>
+				<p><img src="images/85.jpg"></p>
+			</section>
+			<section id="speed">
+				<h2>19.5| Optimize Website Loading Speed</h2>
+				<p>If you want to make your website fast like the demo, here's some tricks:</p>
+				<ul>
+					<li><b>Upgrading PHP version</b>: If your current PHP version is less than 7, upgrade it to version 7+. If you don't know how to do it, ask your hosting provider to do it for you.</li>
+					<li><b>Use HTTPS/SSL</b>: HTTPS has certain advantage regarding loading speed, besides Google recommends it for better SEO. Activate HTTPS in your website. If you don't know how to do it, get help from your hosting provider.</li>
+					<li><b>Optimize Images</b>: Optimizing images means reducing the image size without losing quality. There are many online tools (For example: <a target="_blank" href="https://tinypng.com/">https://tinypng.com/</a>) from where you can optimize images very easily. Please optimize images using these tools before uploading it into website.</li>
+					<li><b>Page Caching Plugin</b>: Use a better page caching plugin. In our demo website, we are using "<b>Autoptimize</b>" and "<b>Cache Enabler</b>" plugin together. If you are going to use "<b>Autoptimize</b>", make sure to turn on the <i>HTML, CSS and JavaScript</i> optimization option.</li>
+					<li><b>Speed Testing Tool</b>: Finally to measure the loading speed you can use the pingdom website here: <a target="_blank" href="https://tools.pingdom.com/">https://tools.pingdom.com</a>. Keep in mind that loading speed varies depending on which location you set in that website. To get the accurate result always choose the location same/nearby as your website server location.</li>
+				</ul>
+			</section>
+			<section id="trouble"></section>
+			<section id="t-demo">
+				<h2>20.1| Demo Content installation failed</h2>
+				<p>This is a hosting issue. In most hostings demo installation will work fine. But some hostings block certain permissions which may cause this issue. If this happens to you, you can contact your hosting provider or alternatively send a support request to <a href="mailto:support@radiustheme.com">support@radiustheme.com</a> and we will help you to fix this.</p>
+			</section>
+			<section id="t-error">
+				<h2>20.2| 404 Error in all pages</h2>
+				<p>If you face this type of issue, please update your permalink. To update permalink, navigate to <b>Settings -> Permalink</b> and then click on <b>Save Settings</b> button.</p>
+				<p><img src="images/41.jpg"></p>
+			</section>
+			<section id="contact">
+				<h2>21| Contact</h2>
+				<p style="color:red;">If you face any issue please contact us at <a href="mailto:support@radiustheme.com">support@radiustheme.com</a>. We provide 15 hours real-time support for our customers.</p>
+				<p>Thank you for purchasing our theme.</p>
+				<p class="mt50"></p>
+			</section>
+		</div>
+	</div>
+	<script src="files/js/jquery.min.js"></script>
+	<script type="text/javascript" src="files/vendor/scrollbar/jquery.mCustomScrollbar.min.js"></script>
+	<script src="files/js/jquery.meanmenu.min.js"></script>
+	<script type="text/javascript" src="files/js/main.js"></script>
+</body>
+</html>
